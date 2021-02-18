@@ -1,0 +1,751 @@
+<!DOCTYPE html>
+<!--[if IE 9 ]> <html lang="en-US" class="ie9 loading-site no-js"> <![endif]-->
+<!--[if IE 8 ]> <html lang="en-US" class="ie8 loading-site no-js"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en-US" class="loading-site no-js"> <!--<![endif]-->
+<head>
+	<meta charset="UTF-8" />
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="https://beekindy.com/xmlrpc.php" />
+
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+	<!-- This site is optimized with the Yoast SEO plugin v14.3 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>My account - Beekindy.com</title>
+	<meta name="robots" content="index, follow" />
+	<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://buzzcrafty.com/my-account/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="My account - Beekindy.com" />
+	<meta property="og:url" content="https://buzzcrafty.com/my-account/" />
+	<meta property="og:site_name" content="Beekindy.com" />
+	<meta property="article:modified_time" content="2020-05-12T06:46:49+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://beekindy.com/#website","url":"https://beekindy.com/","name":"Beekindy.com","description":"Craft Supply Wood Decal","potentialAction":[{"@type":"SearchAction","target":"https://beekindy.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://buzzcrafty.com/my-account/#webpage","url":"https://buzzcrafty.com/my-account/","name":"My account - Beekindy.com","isPartOf":{"@id":"https://beekindy.com/#website"},"datePublished":"2019-04-19T23:47:04+00:00","dateModified":"2020-05-12T06:46:49+00:00","breadcrumb":{"@id":"https://buzzcrafty.com/my-account/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://buzzcrafty.com/my-account/"]}]},{"@type":"BreadcrumbList","@id":"https://buzzcrafty.com/my-account/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://beekindy.com/","url":"https://beekindy.com/","name":"Trang ch\u1ee7"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://buzzcrafty.com/my-account/","url":"https://buzzcrafty.com/my-account/","name":"My account"}}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<script type='text/javascript'>console.log('PixelYourSite PRO version 7.7.1');</script>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Beekindy.com &raquo; Feed" href="https://beekindy.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Beekindy.com &raquo; Comments Feed" href="https://beekindy.com/comments/feed/" />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://beekindy.com/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-style-css'  href='https://beekindy.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://beekindy.com/wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='pisol-ewcl-css'  href='https://beekindy.com/wp-content/plugins/export-woocommerce-customer-list/public/css/pisol-ewcl-public.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wcva-shop-frontend-css'  href='https://beekindy.com/wp-content/plugins/woocommerce-colororimage-variation-select/css/shop-frontend.css' type='text/css' media='all' />
+<link rel='stylesheet' id='select2-css'  href='https://beekindy.com/wp-content/plugins/woocommerce/assets/css/select2.css' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='wc-gateway-ppec-frontend-css'  href='https://beekindy.com/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/assets/css/wc-gateway-ppec-frontend.css' type='text/css' media='all' />
+<link rel='stylesheet' id='flatsome-icons-css'  href='https://beekindy.com/wp-content/themes/flatsome/assets/css/fl-icons.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ccfwoo-style-css'  href='https://beekindy.com/wp-content/plugins/checkout-countdown-for-woocommerce/functions/../assets/checkout-countdown.min.css' type='text/css' media='all' />
+<style id='ccfwoo-style-inline-css' type='text/css'>
+.checkout-countdown-wrapper.checkout-countdown-bar {
+	color: #f2f2f2;
+	background-color: #110f0f;
+	  position: relative;
+}
+</style>
+<link rel='stylesheet' id='flatsome-main-css'  href='https://beekindy.com/wp-content/themes/flatsome/assets/css/flatsome.css' type='text/css' media='all' />
+<link rel='stylesheet' id='flatsome-shop-css'  href='https://beekindy.com/wp-content/themes/flatsome/assets/css/flatsome-shop.css' type='text/css' media='all' />
+<link rel='stylesheet' id='flatsome-style-css'  href='https://beekindy.com/wp-content/themes/devvn-shopee/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wapf-frontend-css'  href='https://beekindy.com/wp-content/plugins/advanced-product-fields-for-woocommerce-pro/assets/css/frontend.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='flatsome-googlefonts-css'  href='//fonts.googleapis.com/css?family=Montserrat%3Aregular%2C700%2Cregular%2C700%7CDancing+Script%3Aregular%2C400&#038;display=swap' type='text/css' media='all' />
+<script type='text/javascript' src='https://beekindy.com/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://beekindy.com/wp-content/plugins/export-woocommerce-customer-list/public/js/pisol-ewcl-public.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wcva_shop = {"left_icon":"https:\/\/beekindy.com\/wp-content\/plugins\/woocommerce-colororimage-variation-select\/images\/left-arrow.png","right_icon":"https:\/\/beekindy.com\/wp-content\/plugins\/woocommerce-colororimage-variation-select\/images\/right-arrow.png","enable_slider":"no","slider_no":"7","hover_swap":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://beekindy.com/wp-content/plugins/woocommerce-colororimage-variation-select/js/shop-frontend.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _zxcvbnSettings = {"src":"https:\/\/beekindy.com\/wp-includes\/js\/zxcvbn.min.js"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://beekindy.com/wp-includes/js/zxcvbn-async.min.js'></script>
+<script type='text/javascript' src='https://beekindy.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js'></script>
+<script type='text/javascript' src='https://beekindy.com/wp-content/plugins/pixelyoursite-pro/dist/scripts/jquery.bind-first-0.2.3.min.js'></script>
+<script type='text/javascript' src='https://beekindy.com/wp-content/plugins/pixelyoursite-pro/dist/scripts/vimeo.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pysOptions = {"staticEvents":{"facebook":{"PageView":[{"params":[],"delay":0,"ids":[],"hasTimeWindow":false,"timeWindow":0,"pixelIds":["351956199469395","925139571225458","1847199692104492"],"eventID":"9498743c-126a-4188-b522-d4a4c6e307cb"}],"GeneralEvent":[{"params":{"post_type":"page","post_id":"16","content_name":"My account"},"delay":0,"ids":[],"hasTimeWindow":false,"timeWindow":0,"pixelIds":["351956199469395","925139571225458","1847199692104492"],"eventID":"51ff8e32-8046-4756-8de8-2005902d2e1d"}]}},"dynamicEventsParams":[],"dynamicEventsTriggers":[],"facebook":{"pixelIds":["351956199469395","925139571225458","1847199692104492"],"defoultPixelIds":["351956199469395","925139571225458","1847199692104492"],"advancedMatching":[],"removeMetadata":false,"contentParams":{"post_type":"page","post_id":16,"content_name":"My account"},"clickEventEnabled":true,"watchVideoEnabled":true,"adSenseEventEnabled":true,"commentEventEnabled":true,"formEventEnabled":true,"downloadEnabled":true,"wooVariableAsSimple":false,"serverApiEnabled":false,"ajaxForServerEvent":true,"wooCRSendFromServer":false},"ga":{"trackingIds":["UA-141912607-1"],"enhanceLinkAttr":false,"anonimizeIP":false,"clickEventEnabled":true,"watchVideoEnabled":true,"commentEventEnabled":true,"formEventEnabled":true,"downloadEnabled":true,"clickEventNonInteractive":true,"watchVideoEventNonInteractive":false,"formEventNonInteractive":false,"commentEventNonInteractive":false,"downloadEventNonInteractive":false,"retargetingLogic":"ecomm","crossDomainEnabled":false,"crossDomainAcceptIncoming":false,"crossDomainDomains":[],"wooVariableAsSimple":false},"debug":"","siteUrl":"https:\/\/beekindy.com","ajaxUrl":"https:\/\/beekindy.com\/wp-admin\/admin-ajax.php","commonEventParams":{"domain":"beekindy.com","user_roles":"guest","plugin":"PixelYourSite"},"clickEventEnabled":"1","adSenseEventEnabled":"1","watchVideoEnabled":"1","commentEventEnabled":"1","formEventEnabled":"1","downloadEventEnabled":"1","downloadExtensions":["","doc","exe","js","pdf","ppt","tgz","zip","xls"],"trackUTMs":"1","trackTrafficSource":"1","postType":"page","user_id":"0","gdpr":{"ajax_enabled":false,"all_disabled_by_api":false,"facebook_disabled_by_api":false,"analytics_disabled_by_api":false,"google_ads_disabled_by_api":false,"pinterest_disabled_by_api":false,"bing_disabled_by_api":false,"facebook_prior_consent_enabled":true,"analytics_prior_consent_enabled":true,"google_ads_prior_consent_enabled":true,"pinterest_prior_consent_enabled":true,"bing_prior_consent_enabled":true,"cookiebot_integration_enabled":false,"cookiebot_facebook_consent_category":"marketing","cookiebot_analytics_consent_category":"statistics","cookiebot_google_ads_consent_category":"marketing","cookiebot_pinterest_consent_category":"marketing","cookiebot_bing_consent_category":"marketing","ginger_integration_enabled":false,"cookie_notice_integration_enabled":false,"cookie_law_info_integration_enabled":false},"woo":{"enabled":true,"addToCartOnButtonEnabled":true,"addToCartOnButtonValueEnabled":true,"addToCartOnButtonValueOption":"price","singleProductId":null,"removeFromCartEnabled":true,"affiliateEnabled":true,"payPalEnabled":true,"removeFromCartSelector":"form.woocommerce-cart-form .remove","checkoutProgressEnabled":false,"selectContentEnabled":false,"affiliateEventName":"Lead","paypalEventName":"AddPaymentInfo"},"edd":{"enabled":false,"addToCartOnButtonEnabled":true,"addToCartOnButtonValueEnabled":true,"addToCartOnButtonValueOption":"price","removeFromCartEnabled":true}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://beekindy.com/wp-content/plugins/pixelyoursite-pro/dist/scripts/public.js'></script>
+<link rel='https://api.w.org/' href='https://beekindy.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://beekindy.com/xmlrpc.php?rsd" />
+<link rel="alternate" type="application/json+oembed" href="https://beekindy.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbeekindy.com%2Fmy-account%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://beekindy.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbeekindy.com%2Fmy-account%2F&#038;format=xml" />
+
+<!-- This website runs the Product Feed PRO for WooCommerce by AdTribes.io plugin -->
+<style>.bg{opacity: 0; transition: opacity 1s; -webkit-transition: opacity 1s;} .bg-loaded{opacity: 1;}</style><!--[if IE]><link rel="stylesheet" type="text/css" href="https://beekindy.com/wp-content/themes/flatsome/assets/css/ie-fallback.css"><script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.1/html5shiv.js"></script><script>var head = document.getElementsByTagName('head')[0],style = document.createElement('style');style.type = 'text/css';style.styleSheet.cssText = ':before,:after{content:none !important';head.appendChild(style);setTimeout(function(){head.removeChild(style);}, 0);</script><script src="https://beekindy.com/wp-content/themes/flatsome/assets/libs/ie-flexibility.js"></script><![endif]--><meta name="facebook-domain-verification" content="8fmm67fleu0am9x4fcesp8bidmbh3p" />
+
+<!-- Google Tag Manager Tien Anh -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PRZ4CPS');</script>
+<!-- End Google Tag Manager TA-->
+
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name='robots' content='noindex,follow' />
+<div class="checkout-countdown-wrapper checkout-countdown-bar " id=""><div class="checkout-countdown-content"><div class="ccfwoo-loading-dots">
+    <div class="ccfwoo-loading-dots--dot"></div>
+    <div class="ccfwoo-loading-dots--dot"></div>
+    <div class="ccfwoo-loading-dots--dot"></div>
+</div></div></div><style id="custom-css" type="text/css">:root {--primary-color: #1d1d2c;}html{background-color:#f5f5f5!important;}.full-width .ubermenu-nav, .container, .row{max-width: 1200px}.row.row-collapse{max-width: 1170px}.row.row-small{max-width: 1192.5px}.row.row-large{max-width: 1230px}.sticky-add-to-cart--active, #wrapper,#main,#main.dark{background-color: #f5f5f5}.header-main{height: 85px}#logo img{max-height: 85px}#logo{width:145px;}.header-bottom{min-height: 40px}.header-top{min-height: 34px}.transparent .header-main{height: 265px}.transparent #logo img{max-height: 265px}.has-transparent + .page-title:first-of-type,.has-transparent + #main > .page-title,.has-transparent + #main > div > .page-title,.has-transparent + #main .page-header-wrapper:first-of-type .page-title{padding-top: 345px;}.header.show-on-scroll,.stuck .header-main{height:70px!important}.stuck #logo img{max-height: 70px!important}.search-form{ width: 90%;}.header-bg-color, .header-wrapper {background-color: rgba(255,255,255,0)}.header-bottom {background-color: #fe6532}.header-main .nav > li > a{line-height: 16px }.stuck .header-main .nav > li > a{line-height: 50px }@media (max-width: 549px) {.header-main{height: 70px}#logo img{max-height: 70px}}.header-top{background-color:rgba(20,20,20,0)!important;}/* Color */.accordion-title.active, .has-icon-bg .icon .icon-inner,.logo a, .primary.is-underline, .primary.is-link, .badge-outline .badge-inner, .nav-outline > li.active> a,.nav-outline >li.active > a, .cart-icon strong,[data-color='primary'], .is-outline.primary{color: #1d1d2c;}/* Color !important */[data-text-color="primary"]{color: #1d1d2c!important;}/* Background Color */[data-text-bg="primary"]{background-color: #1d1d2c;}/* Background */.scroll-to-bullets a,.featured-title, .label-new.menu-item > a:after, .nav-pagination > li > .current,.nav-pagination > li > span:hover,.nav-pagination > li > a:hover,.has-hover:hover .badge-outline .badge-inner,button[type="submit"], .button.wc-forward:not(.checkout):not(.checkout-button), .button.submit-button, .button.primary:not(.is-outline),.featured-table .title,.is-outline:hover, .has-icon:hover .icon-label,.nav-dropdown-bold .nav-column li > a:hover, .nav-dropdown.nav-dropdown-bold > li > a:hover, .nav-dropdown-bold.dark .nav-column li > a:hover, .nav-dropdown.nav-dropdown-bold.dark > li > a:hover, .is-outline:hover, .tagcloud a:hover,.grid-tools a, input[type='submit']:not(.is-form), .box-badge:hover .box-text, input.button.alt,.nav-box > li > a:hover,.nav-box > li.active > a,.nav-pills > li.active > a ,.current-dropdown .cart-icon strong, .cart-icon:hover strong, .nav-line-bottom > li > a:before, .nav-line-grow > li > a:before, .nav-line > li > a:before,.banner, .header-top, .slider-nav-circle .flickity-prev-next-button:hover svg, .slider-nav-circle .flickity-prev-next-button:hover .arrow, .primary.is-outline:hover, .button.primary:not(.is-outline), input[type='submit'].primary, input[type='submit'].primary, input[type='reset'].button, input[type='button'].primary, .badge-inner{background-color: #1d1d2c;}/* Border */.nav-vertical.nav-tabs > li.active > a,.scroll-to-bullets a.active,.nav-pagination > li > .current,.nav-pagination > li > span:hover,.nav-pagination > li > a:hover,.has-hover:hover .badge-outline .badge-inner,.accordion-title.active,.featured-table,.is-outline:hover, .tagcloud a:hover,blockquote, .has-border, .cart-icon strong:after,.cart-icon strong,.blockUI:before, .processing:before,.loading-spin, .slider-nav-circle .flickity-prev-next-button:hover svg, .slider-nav-circle .flickity-prev-next-button:hover .arrow, .primary.is-outline:hover{border-color: #1d1d2c}.nav-tabs > li.active > a{border-top-color: #1d1d2c}.widget_shopping_cart_content .blockUI.blockOverlay:before { border-left-color: #1d1d2c }.woocommerce-checkout-review-order .blockUI.blockOverlay:before { border-left-color: #1d1d2c }/* Fill */.slider .flickity-prev-next-button:hover svg,.slider .flickity-prev-next-button:hover .arrow{fill: #1d1d2c;}/* Background Color */[data-icon-label]:after, .secondary.is-underline:hover,.secondary.is-outline:hover,.icon-label,.button.secondary:not(.is-outline),.button.alt:not(.is-outline), .badge-inner.on-sale, .button.checkout, .single_add_to_cart_button, .current .breadcrumb-step{ background-color:#1d1d2c; }[data-text-bg="secondary"]{background-color: #1d1d2c;}/* Color */.secondary.is-underline,.secondary.is-link, .secondary.is-outline,.stars a.active, .star-rating:before, .woocommerce-page .star-rating:before,.star-rating span:before, .color-secondary{color: #1d1d2c}/* Color !important */[data-text-color="secondary"]{color: #1d1d2c!important;}/* Border */.secondary.is-outline:hover{border-color:#1d1d2c}.success.is-underline:hover,.success.is-outline:hover,.success{background-color: #eba63f}.success-color, .success.is-link, .success.is-outline{color: #eba63f;}.success-border{border-color: #eba63f!important;}/* Color !important */[data-text-color="success"]{color: #eba63f!important;}/* Background Color */[data-text-bg="success"]{background-color: #eba63f;}.alert.is-underline:hover,.alert.is-outline:hover,.alert{background-color: #e40c2b}.alert.is-link, .alert.is-outline, .color-alert{color: #e40c2b;}/* Color !important */[data-text-color="alert"]{color: #e40c2b!important;}/* Background Color */[data-text-bg="alert"]{background-color: #e40c2b;}body{font-family:"Montserrat", sans-serif}body{font-weight: 0}.nav > li > a {font-family:"Montserrat", sans-serif;}.mobile-sidebar-levels-2 .nav > li > ul > li > a {font-family:"Montserrat", sans-serif;}.nav > li > a {font-weight: 700;}.mobile-sidebar-levels-2 .nav > li > ul > li > a {font-weight: 700;}h1,h2,h3,h4,h5,h6,.heading-font, .off-canvas-center .nav-sidebar.nav-vertical > li > a{font-family: "Montserrat", sans-serif;}h1,h2,h3,h4,h5,h6,.heading-font,.banner h1,.banner h2{font-weight: 700;}.breadcrumbs{text-transform: none;}.nav > li > a, .links > li > a{text-transform: none;}.alt-font{font-family: "Dancing Script", sans-serif;}.alt-font{font-weight: 400!important;}.header:not(.transparent) .header-nav-main.nav > li > a {color: #1d1d2c;}a{color: #1d1d2c;}.widget a{color: #7a7a7a;}.widget a:hover{color: #eba63f;}.widget .tagcloud a:hover{border-color: #eba63f; background-color: #eba63f;}@media screen and (min-width: 550px){.products .box-vertical .box-image{min-width: 300px!important;width: 300px!important;}}.header-main .social-icons,.header-main .cart-icon strong,.header-main .menu-title,.header-main .header-button > .button.is-outline,.header-main .nav > li > a > i:not(.icon-angle-down){color: #ffffff!important;}.header-main .header-button > .button.is-outline,.header-main .cart-icon strong:after,.header-main .cart-icon strong{border-color: #ffffff!important;}.header-main .header-button > .button:not(.is-outline){background-color: #ffffff!important;}.header-main .current-dropdown .cart-icon strong,.header-main .header-button > .button:hover,.header-main .header-button > .button:hover i,.header-main .header-button > .button:hover span{color:#FFF!important;}.header-main .menu-title:hover,.header-main .social-icons a:hover,.header-main .header-button > .button.is-outline:hover,.header-main .nav > li > a:hover > i:not(.icon-angle-down){color: #1d1d2c!important;}.header-main .current-dropdown .cart-icon strong,.header-main .header-button > .button:hover{background-color: #1d1d2c!important;}.header-main .current-dropdown .cart-icon strong:after,.header-main .current-dropdown .cart-icon strong,.header-main .header-button > .button:hover{border-color: #1d1d2c!important;}.footer-1{background-color: #fbfbfb}.absolute-footer, html{background-color: #f5f5f5}.page-title-small + main .product-container > .row{padding-top:0;}button[name='update_cart'] { display: none; }/* Custom CSS */.absolute-footer, html {background-color: #1D1D2C;}.absolute-footer {color: rgba(241, 241, 241, 0.5);padding: 10px 0 15px;font-size: .9em;}.footer-1 {background-color: #F7F4E9;}.header-main .social-icons, .header-main .cart-icon strong, .header-main .menu-title, .header-main .header-button > .button.is-outline, .header-main .nav > li > a > i:not(.icon-angle-down) {color: #1D1D2C!important;}.success-color, .success.is-link, .success.is-outline {color: #1D1D2C;}#top-bar .nav>li>a {font-size: 13px;color: #1D1D2C;} ul#devvn-hotkey-menu li a {padding: 0;color: #1D1D2C;font-size: 12px;}#breadcrumbs{display: none;}.product_meta>span {display: block;border-top: none;padding: 5px 0;}.shop_table .product-name {min-width: 80px;font-size: 9pt;font-weight: 700;}a.remove, a.icon-remove {background: #000;}.button#place_order, .button.checkout, .checkout-button {width: 100%;height: 55px;font-size: 18pt;text-shadow: 0 0 2px #252525;padding: 0px;background: rgb(13,146,249);background: linear-gradient(180deg, rgba(13,146,249,0.9962359943977591) 49%, rgba(15,140,237,1) 100%);}a.checkout-button.button.alt.wc-forward {font-weight: 400;text-transform: none;height: 48px;line-height: 48px;font-size: 16px;border-radius: 3px;border: 0;box-shadow: none;text-transform: uppercase;font-weight: 500;}.woocommerce-billing-fields h3 {font-size: 13px;color: #EBA63F;font-weight: bolder;text-transform: uppercase;}form.checkout h3 {font-size: 13px;color: #EBA63F;font-weight: bolder;text-transform: uppercase;}input[type='email'], input[type='date'], input[type='number'], input[type='text'], input[type='tel'], input[type='url'], input[type='password'], textarea, select, .select-resize-ghost, .select2-container .select2-choice, .select2-container .select2-selection {box-sizing: border-box;border: 1px solid #cecece;padding: 0 .75em;height: 2.65em;font-size: 12pt;border-radius: 0;max-width: 100%;width: 100%;vertical-align: middle;background-color: #fff;color: #333;box-shadow: none;} .single_add_to_cart_button {border-radius: 4px;font-size: 21px;font-weight: bold; }form.woocommerce-ordering span { display:none;}.wapf-product-totals {display: none;width: 100%;/* border: dotted; */padding: 10px 10px 0px 10px;/* border: darkblue; */border: 2px dashed;margin-bottom: 10px;margin-top: -13px;/* border-color: #d28a11; */}.wapf-product-totals .wapf--inner {padding: none;font-size: 9pt;margin-top: -20px;}.button#place_order, .button.checkout, .checkout-button, .single_add_to_cart_button.button {font-size: 15pt;width: 100%;}#footer .footer ul li.menu-item-7465 a{text-transform: none;padding: 3px 0;background-image: url(https://img.icons8.com/material-sharp/24/000000/youtube.png);background-repeat: no-repeat;padding-left: 25px;}.widget_shopping_cart_content a.button {text-transform: uppercase;}.woo_discount_rules_table {width: 100%;margin-bottom: 1em;border-color: #aa394c;border-spacing: 0;border-style: dashed;padding: 10px;}.woo_discount_rules_table td {font-size: 14px;font-weight: 600;}/* WooSwatches - Woocommerce Color or Image Variation Swatcheswoomatrix */label.wcva_single_textblock {text-align: center;width: auto;padding: 0 10px;line-height: 30px;color: black;border: solid 1px #1c1c2c !important;border: 2px solid #1c1c2c;outline: solid 1px #ffffff !important;background: #f3f3f3;font-size: 14px;font-weight: 600 !important;border-radius: 0%;color: #1c1c2c;}label.selectedswatch.wcva_single_textblock {background: #1C1C2C;color: #fff;border: solid 1px #e3e3e6 !important;outline: solid 1px #282838 !important;line-height: 30px;padding: 0 10px;font-size: 14px;font-weight: 600 !important;border-radius: 0%;}.variations td.value input, select.wcva-standard-select {margin: .5em 0;border: 2px solid #1c1c2c;color: #1c1c2c;font-weight: 600;}.variations .reset_variations {position: absolute;right: 0;bottom: 100%;color: #000;opacity: 0.9;font-size: 9px;text-transform: uppercase;font-weight: bold;}.variations td {vertical-align: middle;padding: .2em 0;border: 0;width: 100%;}/** end **/.pswp__caption{display:none;}span.belowtext {display: table-cell;vertical-align: bottom;font-family: sans-serif;width: auto;left: 50%;font-size: 12px !important;background-color: white;font-weight: bold;color: #ce1933;}/***************CUSTOM cowndown time***************/ #the-final-countdown {float: left;text-align: center;color: #ed1c00;padding: 0;font-size: 13pt;margin: 0;display: flex;width: 100%;justify-content: center;height: 35px;line-height: 30px;background: rgb(255,255,255);background: linear-gradient(180deg, rgba(255,255,255,1) 13%, rgba(250,250,250,1) 75%);}#the-final-countdown span { float: left;text-align: center;color: #1c1c2c6b;padding: 0;font-size: 11pt;margin-top: 3px;} #the-final-countdown p { float: left;padding: 0;font-weight: bold; text-align: center;letter-spacing: 1px;color: #393944;margin-top: 2px;}/***************CUSTOM cowndown time UPSALE***************//***** custom tip ****/#wooot_order_tip_form button {display: inline;background: #000;color: #fff;}/* Custom CSS Mobile */@media (max-width: 549px){button.single_add_to_cart_button.button.alt {display: none !important;}.sm-touch-scroll { overflow-x: hidden;-webkit-overflow-scrolling: touch;}}.label-new.menu-item > a:after{content:"New";}.label-hot.menu-item > a:after{content:"Hot";}.label-sale.menu-item > a:after{content:"Sale";}.label-popular.menu-item > a:after{content:"Popular";}</style></head>
+
+<body class="page-template page-template-page-my-account page-template-page-my-account-php page page-id-16 theme-flatsome woocommerce-account woocommerce-page woocommerce-lost-password woocommerce-no-js lightbox nav-dropdown-has-arrow nav-dropdown-has-shadow nav-dropdown-has-border">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PRZ4CPS"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<script>
+ setInterval(function time(){
+  var d = new Date();
+  var hours = 24 - d.getHours();
+  var min = 60 - d.getMinutes();
+  if((min + '').length == 1){
+    min = '0' + min;
+  }
+  var sec = 60 - d.getSeconds();
+  if((sec + '').length == 1){
+        sec = '0' + sec;
+  }
+  jQuery('#the-final-countdown p').html(hours+':'+min+':'+sec)
+}, 1000);
+ </script>
+<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+
+<div id="wrapper">
+
+	
+	<header id="header" class="header ">
+		<div class="header-wrapper">
+			<div id="top-bar" class="header-top hide-for-sticky hide-for-medium">
+    <div class="flex-row container">
+      <div class="flex-col hide-for-medium flex-left">
+          <ul class="nav nav-left medium-nav-center nav-small  nav-">
+              <li id="menu-item-754" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-754 menu-item-design-default"><a href="https://beekindy.com/about/" class="nav-top-link">About Us</a></li>
+<li id="menu-item-1198" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1198 menu-item-design-default"><a href="https://beekindy.com/shipping-info/" class="nav-top-link">Shipping Info</a></li>
+<li id="menu-item-1199" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1199 menu-item-design-default"><a href="https://beekindy.com/contact-us/" class="nav-top-link">Contact</a></li>
+<li id="menu-item-1203" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1203 menu-item-design-default"><a href="https://beekindy.com/track-order/" class="nav-top-link">TRACK YOUR ORDER</a></li>
+<li id="menu-item-32694" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32694 menu-item-design-default"><a href="https://beekindy.com/shop/" class="nav-top-link">SHOP</a></li>
+          </ul>
+      </div>
+
+      <div class="flex-col hide-for-medium flex-center">
+          <ul class="nav nav-center nav-small  nav-">
+                        </ul>
+      </div>
+
+      <div class="flex-col hide-for-medium flex-right">
+         <ul class="nav top-bar-nav nav-right nav-small  nav-">
+              <li class="header-contact-wrapper">
+		<ul id="header-contact" class="nav nav-divided nav-uppercase header-contact">
+		
+						<li class="">
+			  <a href="mailto:support@buzzcrafty.com" class="tooltip" title="support@buzzcrafty.com">
+				  <i class="icon-envelop" style="font-size:13px;"></i>			       <span>
+			       	Contact			       </span>
+			  </a>
+			</li>
+					
+			
+				</ul>
+</li><li class="account-item has-icon
+   active  "
+>
+
+<a href="https://beekindy.com/my-account/"
+    class="nav-top-link nav-top-not-logged-in "
+      >
+    <span>
+    Login      </span>
+  
+</a>
+
+
+
+</li>
+          </ul>
+      </div>
+
+      
+    </div>
+</div>
+<div id="masthead" class="header-main hide-for-sticky">
+      <div class="header-inner flex-row container logo-left medium-logo-center" role="navigation">
+
+          <!-- Logo -->
+          <div id="logo" class="flex-col logo">
+            <!-- Header logo -->
+<a href="https://beekindy.com/" title="Beekindy.com - Craft Supply Wood Decal" rel="home">
+    Beekindy.com</a>
+          </div>
+
+          <!-- Mobile Left Elements -->
+          <div class="flex-col show-for-medium flex-left">
+            <ul class="mobile-nav nav nav-left ">
+              <li class="nav-icon has-icon">
+  		<a href="#" data-open="#main-menu" data-pos="left" data-bg="main-menu-overlay" data-color="" class="is-small" aria-label="Menu" aria-controls="main-menu" aria-expanded="false">
+		
+		  <i class="icon-menu" ></i>
+		  		</a>
+	</li>            </ul>
+          </div>
+
+          <!-- Left Elements -->
+          <div class="flex-col hide-for-medium flex-left
+            flex-grow">
+            <ul class="header-nav header-nav-main nav nav-left  nav-uppercase" >
+              <li class="header-search-form search-form html relative has-icon">
+	<div class="header-search-form-wrapper">
+		<div class="searchform-wrapper ux-search-box relative is-normal"><form role="search" method="get" class="searchform" action="https://beekindy.com/">
+	<div class="flex-row relative">
+						<div class="flex-col flex-grow">
+			<label class="screen-reader-text" for="woocommerce-product-search-field-0">Search for:</label>
+			<input type="search" id="woocommerce-product-search-field-0" class="search-field mb-0" placeholder="Search&hellip;" value="" name="s" />
+			<input type="hidden" name="post_type" value="product" />
+					</div>
+		<div class="flex-col">
+			<button type="submit" value="Search" class="ux-search-submit submit-button secondary button icon mb-0" aria-label="Submit">
+				<i class="icon-search" ></i>			</button>
+		</div>
+	</div>
+	<div class="live-search-results text-left z-top"></div>
+</form>
+</div>	</div>
+</li><li class="html custom html_nav_position_text"><div class="hot-words__list"><a href="#">Deer hunting</a><a href="#">Yoga</a><a class="hot-words__item" href="#">You are my sunshine</a><a href="#">Mom</a><a href="#">Family</a><a href="#">Personalized</a>
+</div></li>            </ul>
+          </div>
+
+          <!-- Right Elements -->
+          <div class="flex-col hide-for-medium flex-right">
+            <ul class="header-nav header-nav-main nav nav-right  nav-uppercase">
+              <li class="cart-item has-icon has-dropdown">
+
+<a href="https://beekindy.com/cart/" title="Cart" class="header-cart-link is-small">
+
+
+
+    <i class="icon-shopping-bag"
+    data-icon-label="0">
+  </i>
+  </a>
+
+ <ul class="nav-dropdown nav-dropdown-default">
+    <li class="html widget_shopping_cart">
+      <div class="widget_shopping_cart_content">
+        
+
+	<p class="woocommerce-mini-cart__empty-message">No products in the cart.</p>
+
+
+      </div>
+    </li>
+     </ul>
+
+</li>
+            </ul>
+          </div>
+
+          <!-- Mobile Right Elements -->
+          <div class="flex-col show-for-medium flex-right">
+            <ul class="mobile-nav nav nav-right ">
+              <li class="cart-item has-icon">
+
+      <a href="https://beekindy.com/cart/" class="header-cart-link off-canvas-toggle nav-top-link is-small" data-open="#cart-popup" data-class="off-canvas-cart" title="Cart" data-pos="right">
+  
+    <i class="icon-shopping-bag"
+    data-icon-label="0">
+  </i>
+  </a>
+
+
+  <!-- Cart Sidebar Popup -->
+  <div id="cart-popup" class="mfp-hide widget_shopping_cart">
+  <div class="cart-popup-inner inner-padding">
+      <div class="cart-popup-title text-center">
+          <h4 class="uppercase">Cart</h4>
+          <div class="is-divider"></div>
+      </div>
+      <div class="widget_shopping_cart_content">
+          
+
+	<p class="woocommerce-mini-cart__empty-message">No products in the cart.</p>
+
+
+      </div>
+             <div class="cart-sidebar-content relative"><img src="https://buzzcrafty.com/wp-content/uploads/2020/05/guaranteed-cart.png" /></div>  </div>
+  </div>
+
+</li>
+            </ul>
+          </div>
+
+      </div>
+     
+      </div><div id="wide-nav" class="header-bottom wide-nav hide-for-sticky show-for-medium">
+    <div class="flex-row container">
+
+            
+            
+            
+                          <div class="flex-col show-for-medium flex-grow">
+                  <ul class="nav header-bottom-nav nav-center mobile-nav  nav-uppercase">
+                      <li class="header-search-form search-form html relative has-icon">
+	<div class="header-search-form-wrapper">
+		<div class="searchform-wrapper ux-search-box relative is-normal"><form role="search" method="get" class="searchform" action="https://beekindy.com/">
+	<div class="flex-row relative">
+						<div class="flex-col flex-grow">
+			<label class="screen-reader-text" for="woocommerce-product-search-field-1">Search for:</label>
+			<input type="search" id="woocommerce-product-search-field-1" class="search-field mb-0" placeholder="Search&hellip;" value="" name="s" />
+			<input type="hidden" name="post_type" value="product" />
+					</div>
+		<div class="flex-col">
+			<button type="submit" value="Search" class="ux-search-submit submit-button secondary button icon mb-0" aria-label="Submit">
+				<i class="icon-search" ></i>			</button>
+		</div>
+	</div>
+	<div class="live-search-results text-left z-top"></div>
+</form>
+</div>	</div>
+</li>                  </ul>
+              </div>
+            
+    </div>
+</div>
+
+<div class="header-bg-container fill"><div class="header-bg-image fill"></div><div class="header-bg-color fill"></div></div>		</div>
+	</header>
+
+	
+	<main id="main" class="">
+
+
+
+<div class="my-account-header page-title normal-title
+		">
+
+	
+	<div class="page-title-inner flex-row container
+	 text-left">
+		<div class="flex-col flex-grow medium-text-center">
+			
+				<div class="text-center social-login">
+					<h1 class="uppercase mb-0">My account</h1>
+					
+					
+
+									</div>
+
+					</div>
+	</div>
+</div>
+
+<div class="page-wrapper my-account mb">
+<div class="container" role="main">
+
+
+	
+		<div class="woocommerce"><div class="woocommerce-notices-wrapper"></div>
+<form method="post" class="woocommerce-ResetPassword lost_reset_password">
+
+	<p>Lost your password? Please enter your username or email address. You will receive a link to create a new password via email.</p>
+	<p class="woocommerce-form-row woocommerce-form-row--first form-row form-row-first">
+		<label for="user_login">Username or email</label>
+		<input class="woocommerce-Input woocommerce-Input--text input-text" type="text" name="user_login" id="user_login" autocomplete="username" />
+	</p>
+
+	<div class="clear"></div>
+
+	
+	<p class="woocommerce-form-row form-row">
+		<input type="hidden" name="wc_reset_password" value="true" />
+		<button type="submit" class="woocommerce-Button button" value="Reset password">Reset password</button>
+	</p>
+
+	<input type="hidden" id="woocommerce-lost-password-nonce" name="woocommerce-lost-password-nonce" value="9e22f68a8f" /><input type="hidden" name="_wp_http_referer" value="/my-account/lost-password/" />
+</form>
+</div>
+
+	
+
+</div>
+</div>
+
+
+
+</main>
+
+<footer id="footer" class="footer-wrapper">
+
+	
+<!-- FOOTER 1 -->
+<div class="footer-widgets footer footer-1">
+		<div class="row large-columns-4 mb-0">
+	   		<div id="text-2" class="col pb-0 widget widget_text">			<div class="textwidget"><p>&nbsp;</p>
+<p>Gifts Personalized Engraved Love Special Occasions.<br />
+Handmade wooden home decor and furniture.</p>
+</div>
+		</div><div id="nav_menu-2" class="col pb-0 widget widget_nav_menu"><span class="widget-title">COMPANY</span><div class="is-divider small"></div><div class="menu-company-container"><ul id="menu-company" class="menu"><li id="menu-item-1182" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1182"><a href="https://beekindy.com/about/">About Us</a></li>
+<li id="menu-item-1183" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1183"><a href="https://beekindy.com/privacy-policy-2/">Privacy Policy</a></li>
+<li id="menu-item-1184" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1184"><a href="https://beekindy.com/terms-of-service/">Terms of Service</a></li>
+<li id="menu-item-1185" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1185"><a href="https://beekindy.com/contact-us/">Contact US</a></li>
+</ul></div></div><div id="nav_menu-3" class="col pb-0 widget widget_nav_menu"><span class="widget-title">INFORMATIONS</span><div class="is-divider small"></div><div class="menu-informations-container"><ul id="menu-informations" class="menu"><li id="menu-item-1187" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1187"><a href="https://beekindy.com/shipping-info/">Shipping Info</a></li>
+<li id="menu-item-1188" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1188"><a href="https://beekindy.com/returns-refunds-policy/">Returns &#038; Refunds Policy</a></li>
+<li id="menu-item-1189" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1189"><a href="https://beekindy.com/payment-method/">PAYMENT METHOD</a></li>
+<li id="menu-item-1190" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1190"><a href="https://beekindy.com/dmca-request/">DMCA REQUEST</a></li>
+<li id="menu-item-1205" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1205"><a href="https://beekindy.com/track-order/">TRACK YOUR ORDER</a></li>
+<li id="menu-item-7465" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7465"><a href="https://beekindy.com/video-review/">Video Review</a></li>
+<li id="menu-item-7504" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7504"><a href="https://beekindy.com/happy-customers/">HAPPY CUSTOMERS</a></li>
+</ul></div></div><div id="text-3" class="col pb-0 widget widget_text">			<div class="textwidget"><p><strong>CONTACT US<br />
+</strong><br />
+Email:<a href="mailto:support@beekindy.com"><strong>support@beekindy.com</strong></a>Mon – Sat: 9AM-5PM EST</p>
+</div>
+		</div>        
+		</div>
+</div>
+
+<!-- FOOTER 2 -->
+
+
+
+<div class="absolute-footer light medium-text-center text-center">
+  <div class="container clearfix">
+
+    
+    <div class="footer-primary pull-left">
+                          <div class="copyright-footer">
+         <div class="footer-text inline-block small-block">
+            <img style="float:right;width:300px;" src=" https://buzzcrafty.com/wp-content/uploads/2020/05/secure-checkout-badge-1-copy2-1.png" alt="Secure Checkout">          </div><br>
+© 2021 BuzzCrafty .,JSC - All Rights Reserved.      </div>
+          </div>
+  </div>
+</div>
+<a href="#top" class="back-to-top button icon invert plain fixed bottom z-1 is-outline hide-for-medium circle" id="top-link"><i class="icon-angle-up" ></i></a>
+
+</footer>
+
+</div>
+
+<div id="main-menu" class="mobile-sidebar no-scrollbar mfp-hide">
+	<div class="sidebar-menu no-scrollbar ">
+		<ul class="nav nav-sidebar nav-vertical nav-uppercase">
+			<li id="menu-item-955" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-955"><a href="https://beekindy.com/">Home</a></li>
+<li id="menu-item-961" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-961"><a href="https://beekindy.com/shop/">Shop</a>
+<ul class="sub-menu nav-sidebar-ul children">
+	<li id="menu-item-1228" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1228"><a href="https://beekindy.com/product-category/wood-decor/">Wood Decor</a></li>
+	<li id="menu-item-33418" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-33418"><a href="https://beekindy.com/product-category/poster/">Poster</a></li>
+	<li id="menu-item-33419" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-33419"><a href="https://beekindy.com/product-category/hawaii-shirt/">HAWAII SHIRT</a></li>
+</ul>
+</li>
+<li id="menu-item-1227" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1227"><a href="https://beekindy.com/contact-us/">Contact US</a></li>
+<li id="menu-item-1226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1226"><a href="https://beekindy.com/track-order/">TRACK YOUR ORDER</a></li>
+<li class="account-item has-icon menu-item">
+<a href="https://beekindy.com/my-account/"
+    class="nav-top-link nav-top-not-logged-in">
+    <span class="header-account-title">
+    Login  </span>
+</a>
+
+</li>
+		</ul>
+	</div>
+</div>
+        <div id="woocommerce-thank-you-page-payment-method-html-hold" style="display: none">
+			        </div>
+		<div class="devvn_notice"></div><div id="jilt-cart-data" style="display: none !important;" data-nosnippet>{&quot;cart_token&quot;:&quot;&quot;,&quot;hash&quot;:&quot;&quot;,&quot;cart_data&quot;:&quot;&quot;}</div><noscript><img height="1" width="1" style="display: none;" src="https://www.facebook.com/tr?id=351956199469395&ev=PageView&noscript=1&eid=9498743c-126a-4188-b522-d4a4c6e307cb" alt="facebook_pixel"></noscript>
+<noscript><img height="1" width="1" style="display: none;" src="https://www.facebook.com/tr?id=925139571225458&ev=PageView&noscript=1&eid=9498743c-126a-4188-b522-d4a4c6e307cb" alt="facebook_pixel"></noscript>
+<noscript><img height="1" width="1" style="display: none;" src="https://www.facebook.com/tr?id=1847199692104492&ev=PageView&noscript=1&eid=9498743c-126a-4188-b522-d4a4c6e307cb" alt="facebook_pixel"></noscript>
+<noscript><img height="1" width="1" style="display: none;" src="https://www.facebook.com/tr?id=351956199469395&ev=GeneralEvent&noscript=1&eid=51ff8e32-8046-4756-8de8-2005902d2e1d&cd[post_type]=page&cd[post_id]=16&cd[content_name]=My+account" alt="facebook_pixel"></noscript>
+<noscript><img height="1" width="1" style="display: none;" src="https://www.facebook.com/tr?id=925139571225458&ev=GeneralEvent&noscript=1&eid=51ff8e32-8046-4756-8de8-2005902d2e1d&cd[post_type]=page&cd[post_id]=16&cd[content_name]=My+account" alt="facebook_pixel"></noscript>
+<noscript><img height="1" width="1" style="display: none;" src="https://www.facebook.com/tr?id=1847199692104492&ev=GeneralEvent&noscript=1&eid=51ff8e32-8046-4756-8de8-2005902d2e1d&cd[post_type]=page&cd[post_id]=16&cd[content_name]=My+account" alt="facebook_pixel"></noscript>
+	<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+			<script type="text/javascript">
+			var wc_product_block_data = JSON.parse( decodeURIComponent( '%7B%22min_columns%22%3A1%2C%22max_columns%22%3A6%2C%22default_columns%22%3A3%2C%22min_rows%22%3A1%2C%22max_rows%22%3A6%2C%22default_rows%22%3A1%2C%22thumbnail_size%22%3A300%2C%22placeholderImgSrc%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fwp-content%5C%2Fplugins%5C%2Fwoocommerce%5C%2Fassets%5C%2Fimages%5C%2Fplaceholder.png%22%2C%22min_height%22%3A500%2C%22default_height%22%3A500%2C%22isLargeCatalog%22%3Atrue%2C%22limitTags%22%3Atrue%2C%22hasTags%22%3Atrue%2C%22productCategories%22%3A%5B%7B%22term_id%22%3A15%2C%22name%22%3A%22Uncategorized%22%2C%22slug%22%3A%22uncategorized%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A15%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A4%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Funcategorized%5C%2F%22%7D%2C%7B%22term_id%22%3A2529%2C%22name%22%3A%223D%22%2C%22slug%22%3A%223d%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A2529%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A16%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2F3d%5C%2F%22%7D%2C%7B%22term_id%22%3A101%2C%22name%22%3A%22Albums%22%2C%22slug%22%3A%22albums%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A101%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A31%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fwood-decor%5C%2Falbums%5C%2F%22%7D%2C%7B%22term_id%22%3A1445%2C%22name%22%3A%22Among%20Us%22%2C%22slug%22%3A%22among-us%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1445%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1443%2C%22count%22%3A38%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fgame%5C%2Famong-us%5C%2F%22%7D%2C%7B%22term_id%22%3A1044%2C%22name%22%3A%22Animals%22%2C%22slug%22%3A%22animals%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1044%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A389%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fanimals%5C%2F%22%7D%2C%7B%22term_id%22%3A43%2C%22name%22%3A%22Arizona%20Cardinals%22%2C%22slug%22%3A%22arizona-cardinals%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A43%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A31%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fwood-decor%5C%2Farizona-cardinals%5C%2F%22%7D%2C%7B%22term_id%22%3A55%2C%22name%22%3A%22Atlanta%20Falcons%22%2C%22slug%22%3A%22atlanta-falcons%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A55%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A31%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fwood-decor%5C%2Fatlanta-falcons%5C%2F%22%7D%2C%7B%22term_id%22%3A1392%2C%22name%22%3A%22Autism%20Awareness%22%2C%22slug%22%3A%22autism-awareness%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1392%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A39%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fautism-awareness%5C%2F%22%7D%2C%7B%22term_id%22%3A1442%2C%22name%22%3A%22Baby%20Yoda%22%2C%22slug%22%3A%22baby-yoda%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1442%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1045%2C%22count%22%3A37%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Ftv-series%5C%2Fbaby-yoda%5C%2F%22%7D%2C%7B%22term_id%22%3A77%2C%22name%22%3A%22Baltimore%20Ravens%22%2C%22slug%22%3A%22baltimore-ravens%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A77%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A31%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fwood-decor%5C%2Fbaltimore-ravens%5C%2F%22%7D%2C%7B%22term_id%22%3A1388%2C%22name%22%3A%22Beer%22%2C%22slug%22%3A%22beer%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1388%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1297%2C%22count%22%3A112%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fdrink%5C%2Fbeer%5C%2F%22%7D%2C%7B%22term_id%22%3A1067%2C%22name%22%3A%22Best%20Rock%20Bands%22%2C%22slug%22%3A%22best-rock-bands%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1067%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A744%2C%22count%22%3A474%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fmusic%5C%2Fbest-rock-bands%5C%2F%22%7D%2C%7B%22term_id%22%3A2439%2C%22name%22%3A%22Bicycle%22%2C%22slug%22%3A%22bicycle%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A2439%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1233%2C%22count%22%3A16%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fsport-3%5C%2Fbicycle%5C%2F%22%7D%2C%7B%22term_id%22%3A2433%2C%22name%22%3A%22Bigfoot%22%2C%22slug%22%3A%22bigfoot%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A2433%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A854%2C%22count%22%3A16%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fhobbies%5C%2Fbigfoot%5C%2F%22%7D%2C%7B%22term_id%22%3A1417%2C%22name%22%3A%22Black%20Lives%20Matter%22%2C%22slug%22%3A%22black-lives-matter%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1417%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1299%2C%22count%22%3A87%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fpoli%5C%2Fblack-lives-matter%5C%2F%22%7D%2C%7B%22term_id%22%3A1295%2C%22name%22%3A%22Boxing%22%2C%22slug%22%3A%22boxing%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1295%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A854%2C%22count%22%3A1%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fhobbies%5C%2Fboxing%5C%2F%22%7D%2C%7B%22term_id%22%3A1393%2C%22name%22%3A%22Breast%20Cancer%22%2C%22slug%22%3A%22breast-cancer%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1393%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A40%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fbreast-cancer%5C%2F%22%7D%2C%7B%22term_id%22%3A56%2C%22name%22%3A%22Buffalo%20Bills%22%2C%22slug%22%3A%22buffalo-bills%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A56%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A31%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fwood-decor%5C%2Fbuffalo-bills%5C%2F%22%7D%2C%7B%22term_id%22%3A2241%2C%22name%22%3A%22Buffalo%20Bills%22%2C%22slug%22%3A%22buffalo-bills-nfl%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A2241%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1247%2C%22count%22%3A11%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fnfl%5C%2Fbuffalo-bills-nfl%5C%2F%22%7D%2C%7B%22term_id%22%3A1234%2C%22name%22%3A%22Bundesliga%22%2C%22slug%22%3A%22bundesliga%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1234%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1233%2C%22count%22%3A5%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fsport-3%5C%2Fbundesliga%5C%2F%22%7D%2C%7B%22term_id%22%3A1308%2C%22name%22%3A%22Camping%22%2C%22slug%22%3A%22camping%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1308%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A854%2C%22count%22%3A70%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fhobbies%5C%2Fcamping%5C%2F%22%7D%2C%7B%22term_id%22%3A743%2C%22name%22%3A%22Cap%22%2C%22slug%22%3A%22cap%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A743%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A3031%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fcap%5C%2F%22%7D%2C%7B%22term_id%22%3A1404%2C%22name%22%3A%22Car%20Brands%22%2C%22slug%22%3A%22car-brands%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1404%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A854%2C%22count%22%3A87%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fhobbies%5C%2Fcar-brands%5C%2F%22%7D%2C%7B%22term_id%22%3A81%2C%22name%22%3A%22Carolina%20Panthers%22%2C%22slug%22%3A%22carolina-panthers%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A81%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A31%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fwood-decor%5C%2Fcarolina-panthers%5C%2F%22%7D%2C%7B%22term_id%22%3A1316%2C%22name%22%3A%22Cartoon%20Characters%22%2C%22slug%22%3A%22cartoon-characters%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1316%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1045%2C%22count%22%3A2%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Ftv-series%5C%2Fcartoon-characters%5C%2F%22%7D%2C%7B%22term_id%22%3A1221%2C%22name%22%3A%22Cat%22%2C%22slug%22%3A%22cat%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1221%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1044%2C%22count%22%3A53%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fanimals%5C%2Fcat%5C%2F%22%7D%2C%7B%22term_id%22%3A2565%2C%22name%22%3A%22Chef%22%2C%22slug%22%3A%22chef%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A2565%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1115%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fjob%5C%2Fchef%5C%2F%22%7D%2C%7B%22term_id%22%3A48%2C%22name%22%3A%22Chicago%20Bears%22%2C%22slug%22%3A%22chicago-bears%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A48%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A31%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fwood-decor%5C%2Fchicago-bears%5C%2F%22%7D%2C%7B%22term_id%22%3A2530%2C%22name%22%3A%22Chicken%22%2C%22slug%22%3A%22chicken%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A2530%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A854%2C%22count%22%3A44%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fhobbies%5C%2Fchicken%5C%2F%22%7D%2C%7B%22term_id%22%3A46%2C%22name%22%3A%22Cincinnati%20Bengals%22%2C%22slug%22%3A%22cincinnati-bengals%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A46%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A31%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fwood-decor%5C%2Fcincinnati-bengals%5C%2F%22%7D%2C%7B%22term_id%22%3A2521%2C%22name%22%3A%22Cinco%20de%20Mayo%22%2C%22slug%22%3A%22cinco-de-mayo%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A2521%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1289%2C%22count%22%3A2%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fholiday%5C%2Fcinco-de-mayo%5C%2F%22%7D%2C%7B%22term_id%22%3A1407%2C%22name%22%3A%22Coffee%22%2C%22slug%22%3A%22coffee%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1407%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A854%2C%22count%22%3A48%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fhobbies%5C%2Fcoffee%5C%2F%22%7D%2C%7B%22term_id%22%3A1418%2C%22name%22%3A%22Dad%22%2C%22slug%22%3A%22dad%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1418%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1223%2C%22count%22%3A38%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Ffamily%5C%2Fdad%5C%2F%22%7D%2C%7B%22term_id%22%3A59%2C%22name%22%3A%22Dallas%20Cowboys%22%2C%22slug%22%3A%22dallas-cowboys%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A59%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A31%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fwood-decor%5C%2Fdallas-cowboys%5C%2F%22%7D%2C%7B%22term_id%22%3A2374%2C%22name%22%3A%22Daughter%22%2C%22slug%22%3A%22daughter%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A2374%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1223%2C%22count%22%3A2%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Ffamily%5C%2Fdaughter%5C%2F%22%7D%2C%7B%22term_id%22%3A1328%2C%22name%22%3A%22Dentist%22%2C%22slug%22%3A%22dentist%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1328%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1115%2C%22count%22%3A1%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fjob%5C%2Fdentist%5C%2F%22%7D%2C%7B%22term_id%22%3A61%2C%22name%22%3A%22Denver%20Broncos%22%2C%22slug%22%3A%22denver-broncos%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A61%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A31%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fwood-decor%5C%2Fdenver-broncos%5C%2F%22%7D%2C%7B%22term_id%22%3A2032%2C%22name%22%3A%22Desk%20calendar%22%2C%22slug%22%3A%22desk-calendar%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A2032%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A121%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fdesk-calendar%5C%2F%22%7D%2C%7B%22term_id%22%3A57%2C%22name%22%3A%22Detroit%20Lions%22%2C%22slug%22%3A%22detroit-lions%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A57%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A31%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fwood-decor%5C%2Fdetroit-lions%5C%2F%22%7D%2C%7B%22term_id%22%3A2459%2C%22name%22%3A%22Doctor%22%2C%22slug%22%3A%22doctor%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A2459%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1115%2C%22count%22%3A4%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fjob%5C%2Fdoctor%5C%2F%22%7D%2C%7B%22term_id%22%3A1162%2C%22name%22%3A%22Dogs%22%2C%22slug%22%3A%22dogs%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1162%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1044%2C%22count%22%3A281%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fanimals%5C%2Fdogs%5C%2F%22%7D%2C%7B%22term_id%22%3A1711%2C%22name%22%3A%22Donald%20Trump%22%2C%22slug%22%3A%22donald-trump%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1711%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1299%2C%22count%22%3A71%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fpoli%5C%2Fdonald-trump%5C%2F%22%7D%2C%7B%22term_id%22%3A1274%2C%22name%22%3A%22Dragon%20Ball%22%2C%22slug%22%3A%22dragon-ball%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1274%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1045%2C%22count%22%3A10%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Ftv-series%5C%2Fdragon-ball%5C%2F%22%7D%2C%7B%22term_id%22%3A1297%2C%22name%22%3A%22Drink%22%2C%22slug%22%3A%22drink%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1297%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A222%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fdrink%5C%2F%22%7D%2C%7B%22term_id%22%3A2479%2C%22name%22%3A%22Dungeons%20%26amp%3B%20Dragons%22%2C%22slug%22%3A%22dungeons-dragons%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A2479%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1443%2C%22count%22%3A21%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fgame%5C%2Fdungeons-dragons%5C%2F%22%7D%2C%7B%22term_id%22%3A1019%2C%22name%22%3A%22Embroidered%20T-Shirt%22%2C%22slug%22%3A%22embroidered-t-shirt%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1019%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A2983%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fembroidered-t-shirt%5C%2F%22%7D%2C%7B%22term_id%22%3A368%2C%22name%22%3A%22Engraved%20Name%22%2C%22slug%22%3A%22engraved-name%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A368%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A31%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fwood-decor%5C%2Fengraved-name%5C%2F%22%7D%2C%7B%22term_id%22%3A1228%2C%22name%22%3A%22F.r.i.e.n.d.s%22%2C%22slug%22%3A%22f-r-i-e-n-d-s%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1228%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1045%2C%22count%22%3A40%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Ftv-series%5C%2Ff-r-i-e-n-d-s%5C%2F%22%7D%2C%7B%22term_id%22%3A417%2C%22name%22%3A%22Face%20Mask%22%2C%22slug%22%3A%22face-mask%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A417%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A1%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fface-mask%5C%2F%22%7D%2C%7B%22term_id%22%3A1223%2C%22name%22%3A%22Family%22%2C%22slug%22%3A%22family%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1223%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A184%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Ffamily%5C%2F%22%7D%2C%7B%22term_id%22%3A1350%2C%22name%22%3A%22Farmer%22%2C%22slug%22%3A%22farmer%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1350%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1115%2C%22count%22%3A64%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fjob%5C%2Ffarmer%5C%2F%22%7D%2C%7B%22term_id%22%3A322%2C%22name%22%3A%22Firefighter%22%2C%22slug%22%3A%22firefighter%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A322%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A31%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fwood-decor%5C%2Ffirefighter%5C%2F%22%7D%2C%7B%22term_id%22%3A1315%2C%22name%22%3A%22Firefighter%22%2C%22slug%22%3A%22firefighter-job%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1315%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1115%2C%22count%22%3A3%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fjob%5C%2Ffirefighter-job%5C%2F%22%7D%2C%7B%22term_id%22%3A321%2C%22name%22%3A%22Fishing%22%2C%22slug%22%3A%22fishing%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A321%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A56%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Ffishing%5C%2F%22%7D%2C%7B%22term_id%22%3A835%2C%22name%22%3A%22Football%22%2C%22slug%22%3A%22football-sport%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A835%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A103%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Ffootball-sport%5C%2F%22%7D%2C%7B%22term_id%22%3A628%2C%22name%22%3A%22Friends%20TV%20Show%22%2C%22slug%22%3A%22friends-tv-show%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A628%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A31%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fwood-decor%5C%2Ffriends-tv-show%5C%2F%22%7D%2C%7B%22term_id%22%3A2363%2C%22name%22%3A%22Funny%22%2C%22slug%22%3A%22funny%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A2363%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A56%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Ffunny%5C%2F%22%7D%2C%7B%22term_id%22%3A1443%2C%22name%22%3A%22Game%22%2C%22slug%22%3A%22game%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1443%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A102%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fgame%5C%2F%22%7D%2C%7B%22term_id%22%3A1156%2C%22name%22%3A%22Game%20Of%20Thrones%22%2C%22slug%22%3A%22game-of-thrones%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1156%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1045%2C%22count%22%3A44%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Ftv-series%5C%2Fgame-of-thrones%5C%2F%22%7D%2C%7B%22term_id%22%3A1235%2C%22name%22%3A%22GOD%22%2C%22slug%22%3A%22god%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1235%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A56%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fgod%5C%2F%22%7D%2C%7B%22term_id%22%3A68%2C%22name%22%3A%22Green%20Bay%20Packers%22%2C%22slug%22%3A%22green-bay-packers%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A68%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A31%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fwood-decor%5C%2Fgreen-bay-packers%5C%2F%22%7D%2C%7B%22term_id%22%3A1520%2C%22name%22%3A%22Grey%27s%20Anatomy%22%2C%22slug%22%3A%22greys-anatomy%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1520%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1045%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Ftv-series%5C%2Fgreys-anatomy%5C%2F%22%7D%2C%7B%22term_id%22%3A301%2C%22name%22%3A%22Guitar%22%2C%22slug%22%3A%22guitar%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A301%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A854%2C%22count%22%3A13%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fhobbies%5C%2Fguitar%5C%2F%22%7D%2C%7B%22term_id%22%3A2453%2C%22name%22%3A%22Gym%22%2C%22slug%22%3A%22gym%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A2453%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1233%2C%22count%22%3A2%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fsport-3%5C%2Fgym%5C%2F%22%7D%2C%7B%22term_id%22%3A1290%2C%22name%22%3A%22Halloween%22%2C%22slug%22%3A%22halloween%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1290%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1289%2C%22count%22%3A84%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fholiday%5C%2Fhalloween%5C%2F%22%7D%2C%7B%22term_id%22%3A2270%2C%22name%22%3A%22Hamilton%22%2C%22slug%22%3A%22hamilton%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A2270%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1045%2C%22count%22%3A12%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Ftv-series%5C%2Fhamilton%5C%2F%22%7D%2C%7B%22term_id%22%3A1173%2C%22name%22%3A%22Harry%20Potter%22%2C%22slug%22%3A%22harry-potter%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1173%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1045%2C%22count%22%3A22%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Ftv-series%5C%2Fharry-potter%5C%2F%22%7D%2C%7B%22term_id%22%3A613%2C%22name%22%3A%22HAWAII%20SHIRT%22%2C%22slug%22%3A%22hawaii-shirt%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A613%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A50%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fhawaii-shirt%5C%2F%22%7D%2C%7B%22term_id%22%3A2390%2C%22name%22%3A%22Hiking%22%2C%22slug%22%3A%22hiking%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A2390%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A854%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fhobbies%5C%2Fhiking%5C%2F%22%7D%2C%7B%22term_id%22%3A1309%2C%22name%22%3A%22Hippie%22%2C%22slug%22%3A%22hippie%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1309%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1077%2C%22count%22%3A32%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Flifestyle%5C%2Fhippie%5C%2F%22%7D%2C%7B%22term_id%22%3A854%2C%22name%22%3A%22Hobbies%22%2C%22slug%22%3A%22hobbies%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A854%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A939%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fhobbies%5C%2F%22%7D%2C%7B%22term_id%22%3A919%2C%22name%22%3A%22Hockey%22%2C%22slug%22%3A%22hockey%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A919%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A2%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fhockey%5C%2F%22%7D%2C%7B%22term_id%22%3A1406%2C%22name%22%3A%22Hocus%20Focus%22%2C%22slug%22%3A%22hocus-focus%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1406%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1290%2C%22count%22%3A40%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fholiday%5C%2Fhalloween%5C%2Fhocus-focus%5C%2F%22%7D%2C%7B%22term_id%22%3A1289%2C%22name%22%3A%22Holiday%22%2C%22slug%22%3A%22holiday%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1289%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A379%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fholiday%5C%2F%22%7D%2C%7B%22term_id%22%3A2434%2C%22name%22%3A%22Horoscope%22%2C%22slug%22%3A%22horoscope%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A2434%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A854%2C%22count%22%3A24%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fhobbies%5C%2Fhoroscope%5C%2F%22%7D%2C%7B%22term_id%22%3A45%2C%22name%22%3A%22Houston%20Texans%22%2C%22slug%22%3A%22houston-texans%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A45%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A31%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fwood-decor%5C%2Fhouston-texans%5C%2F%22%7D%2C%7B%22term_id%22%3A1222%2C%22name%22%3A%22Hunting%22%2C%22slug%22%3A%22hunting%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1222%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A54%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fhunting%5C%2F%22%7D%2C%7B%22term_id%22%3A44%2C%22name%22%3A%22Indianapolis%20Colts%22%2C%22slug%22%3A%22indianapolis-colts%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A44%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A31%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fwood-decor%5C%2Findianapolis-colts%5C%2F%22%7D%2C%7B%22term_id%22%3A83%2C%22name%22%3A%22Jacksonville%20Jaguars%22%2C%22slug%22%3A%22jacksonville-jaguars%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A83%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A31%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fwood-decor%5C%2Fjacksonville-jaguars%5C%2F%22%7D%2C%7B%22term_id%22%3A1517%2C%22name%22%3A%22Jeep%22%2C%22slug%22%3A%22jeep%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1517%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1404%2C%22count%22%3A41%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fhobbies%5C%2Fcar-brands%5C%2Fjeep%5C%2F%22%7D%2C%7B%22term_id%22%3A1115%2C%22name%22%3A%22Job%22%2C%22slug%22%3A%22job%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1115%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A290%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fjob%5C%2F%22%7D%2C%7B%22term_id%22%3A1710%2C%22name%22%3A%22Joe%20Biden%22%2C%22slug%22%3A%22joe-biden%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1710%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1299%2C%22count%22%3A382%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fpoli%5C%2Fjoe-biden%5C%2F%22%7D%2C%7B%22term_id%22%3A51%2C%22name%22%3A%22Kansas%20City%20Chiefs%22%2C%22slug%22%3A%22kansas-city-chiefs%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A51%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A31%2C%22count%22%3A1%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fwood-decor%5C%2Fkansas-city-chiefs%5C%2F%22%7D%2C%7B%22term_id%22%3A2454%2C%22name%22%3A%22Kings%20Birthday%22%2C%22slug%22%3A%22kings-birthday%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A2454%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A854%2C%22count%22%3A24%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fhobbies%5C%2Fkings-birthday%5C%2F%22%7D%2C%7B%22term_id%22%3A2158%2C%22name%22%3A%22Knit%20Cap%22%2C%22slug%22%3A%22knit-cap%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A2158%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A1%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fknit-cap%5C%2F%22%7D%2C%7B%22term_id%22%3A1237%2C%22name%22%3A%22La%20Liga%22%2C%22slug%22%3A%22la-liga%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1237%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1233%2C%22count%22%3A7%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fsport-3%5C%2Fla-liga%5C%2F%22%7D%2C%7B%22term_id%22%3A725%2C%22name%22%3A%22Las%20Vegas%20Raiders%22%2C%22slug%22%3A%22las-vegas-raiders%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A725%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A31%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fwood-decor%5C%2Flas-vegas-raiders%5C%2F%22%7D%2C%7B%22term_id%22%3A1340%2C%22name%22%3A%22LGBT%22%2C%22slug%22%3A%22lgbt%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1340%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1077%2C%22count%22%3A70%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Flifestyle%5C%2Flgbt%5C%2F%22%7D%2C%7B%22term_id%22%3A1077%2C%22name%22%3A%22Life%20styles%22%2C%22slug%22%3A%22lifestyle%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1077%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A229%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Flifestyle%5C%2F%22%7D%2C%7B%22term_id%22%3A1326%2C%22name%22%3A%22Ligue%201%22%2C%22slug%22%3A%22ligue-1%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1326%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1233%2C%22count%22%3A6%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fsport-3%5C%2Fligue-1%5C%2F%22%7D%2C%7B%22term_id%22%3A910%2C%22name%22%3A%22LINEN%20SHIRT%22%2C%22slug%22%3A%22linen-shirt%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A910%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A34%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Flinen-shirt%5C%2F%22%7D%2C%7B%22term_id%22%3A50%2C%22name%22%3A%22Los%20Angeles%20Chargers%22%2C%22slug%22%3A%22los-angeles-chargers%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A50%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A31%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fwood-decor%5C%2Flos-angeles-chargers%5C%2F%22%7D%2C%7B%22term_id%22%3A1619%2C%22name%22%3A%22Los%20Angeles%20Dodgers%22%2C%22slug%22%3A%22los-angeles-dodgers%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1619%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A878%2C%22count%22%3A18%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fmlb%5C%2Flos-angeles-dodgers%5C%2F%22%7D%2C%7B%22term_id%22%3A1420%2C%22name%22%3A%22Los%20Angeles%20Lakers%22%2C%22slug%22%3A%22los-angeles-lakers%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1420%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A903%2C%22count%22%3A13%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fnba%5C%2Flos-angeles-lakers%5C%2F%22%7D%2C%7B%22term_id%22%3A75%2C%22name%22%3A%22Los%20Angeles%20Rams%22%2C%22slug%22%3A%22los-angeles-rams%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A75%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A31%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fwood-decor%5C%2Flos-angeles-rams%5C%2F%22%7D%2C%7B%22term_id%22%3A1314%2C%22name%22%3A%22Marvel%22%2C%22slug%22%3A%22marvel%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1314%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1045%2C%22count%22%3A14%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Ftv-series%5C%2Fmarvel%5C%2F%22%7D%2C%7B%22term_id%22%3A1291%2C%22name%22%3A%22Merry%20Christmas%22%2C%22slug%22%3A%22merry-christmas%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1291%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1289%2C%22count%22%3A111%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fholiday%5C%2Fmerry-christmas%5C%2F%22%7D%2C%7B%22term_id%22%3A47%2C%22name%22%3A%22Miami%20Dolphins%22%2C%22slug%22%3A%22miami-dolphins%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A47%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A31%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fwood-decor%5C%2Fmiami-dolphins%5C%2F%22%7D%2C%7B%22term_id%22%3A60%2C%22name%22%3A%22Minnesota%20Vikings%22%2C%22slug%22%3A%22minnesota-vikings%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A60%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A31%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fwood-decor%5C%2Fminnesota-vikings%5C%2F%22%7D%2C%7B%22term_id%22%3A878%2C%22name%22%3A%22MLB%22%2C%22slug%22%3A%22mlb%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A878%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A80%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fmlb%5C%2F%22%7D%2C%7B%22term_id%22%3A1236%2C%22name%22%3A%22MLS%22%2C%22slug%22%3A%22mls%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1236%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1233%2C%22count%22%3A4%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fsport-3%5C%2Fmls%5C%2F%22%7D%2C%7B%22term_id%22%3A1419%2C%22name%22%3A%22Mom%22%2C%22slug%22%3A%22mom%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1419%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1223%2C%22count%22%3A104%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Ffamily%5C%2Fmom%5C%2F%22%7D%2C%7B%22term_id%22%3A744%2C%22name%22%3A%22Music%22%2C%22slug%22%3A%22music%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A744%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A1030%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fmusic%5C%2F%22%7D%2C%7B%22term_id%22%3A1324%2C%22name%22%3A%22Music%20Band%22%2C%22slug%22%3A%22music-band%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1324%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A744%2C%22count%22%3A215%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fmusic%5C%2Fmusic-band%5C%2F%22%7D%2C%7B%22term_id%22%3A903%2C%22name%22%3A%22NBA%22%2C%22slug%22%3A%22nba%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A903%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A86%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fnba%5C%2F%22%7D%2C%7B%22term_id%22%3A1240%2C%22name%22%3A%22NBA%22%2C%22slug%22%3A%22nba-sport-cap%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1240%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1233%2C%22count%22%3A43%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fsport-3%5C%2Fnba-sport-cap%5C%2F%22%7D%2C%7B%22term_id%22%3A1034%2C%22name%22%3A%22NCAA%22%2C%22slug%22%3A%22ncaa%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1034%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A71%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fncaa%5C%2F%22%7D%2C%7B%22term_id%22%3A58%2C%22name%22%3A%22New%20England%20Patriots%22%2C%22slug%22%3A%22new-england-patriots%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A58%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A31%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fwood-decor%5C%2Fnew-england-patriots%5C%2F%22%7D%2C%7B%22term_id%22%3A42%2C%22name%22%3A%22New%20Orleans%20Saints%22%2C%22slug%22%3A%22new-orleans-saints%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A42%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A31%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fwood-decor%5C%2Fnew-orleans-saints%5C%2F%22%7D%2C%7B%22term_id%22%3A2562%2C%22name%22%3A%22New%20Orleans%20Saints%22%2C%22slug%22%3A%22new-orleans-saints-nfl%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A2562%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1247%2C%22count%22%3A6%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fnfl%5C%2Fnew-orleans-saints-nfl%5C%2F%22%7D%2C%7B%22term_id%22%3A52%2C%22name%22%3A%22New%20York%20Giants%22%2C%22slug%22%3A%22new-york-giants%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A52%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A31%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fwood-decor%5C%2Fnew-york-giants%5C%2F%22%7D%2C%7B%22term_id%22%3A1247%2C%22name%22%3A%22NFL%22%2C%22slug%22%3A%22nfl%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1247%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A136%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fnfl%5C%2F%22%7D%2C%7B%22term_id%22%3A885%2C%22name%22%3A%22NHL%22%2C%22slug%22%3A%22nhl%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A885%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A58%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fnhl%5C%2F%22%7D%2C%7B%22term_id%22%3A1230%2C%22name%22%3A%22Nurse%22%2C%22slug%22%3A%22nurse%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1230%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1115%2C%22count%22%3A82%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fjob%5C%2Fnurse%5C%2F%22%7D%2C%7B%22term_id%22%3A84%2C%22name%22%3A%22Oakland%20Raiders%22%2C%22slug%22%3A%22oakland-raiders%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A84%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A31%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fwood-decor%5C%2Foakland-raiders%5C%2F%22%7D%2C%7B%22term_id%22%3A38%2C%22name%22%3A%22Personalized%22%2C%22slug%22%3A%22personalized%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A38%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A7%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fpersonalized%5C%2F%22%7D%2C%7B%22term_id%22%3A441%2C%22name%22%3A%22Personalized%20Jersey%22%2C%22slug%22%3A%22personalized-jersey%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A441%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A2%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fpersonalized-jersey%5C%2F%22%7D%2C%7B%22term_id%22%3A90%2C%22name%22%3A%22Philadelphia%20Eagles%22%2C%22slug%22%3A%22philadelphia-eagles%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A90%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A31%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fwood-decor%5C%2Fphiladelphia-eagles%5C%2F%22%7D%2C%7B%22term_id%22%3A86%2C%22name%22%3A%22Pittsburgh%20Steelers%22%2C%22slug%22%3A%22pittsburgh-steelers%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A86%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A31%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fwood-decor%5C%2Fpittsburgh-steelers%5C%2F%22%7D%2C%7B%22term_id%22%3A1339%2C%22name%22%3A%22Pokemons%22%2C%22slug%22%3A%22pokemons%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1339%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1045%2C%22count%22%3A10%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Ftv-series%5C%2Fpokemons%5C%2F%22%7D%2C%7B%22term_id%22%3A1836%2C%22name%22%3A%22Police%22%2C%22slug%22%3A%22police%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1836%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1115%2C%22count%22%3A2%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fjob%5C%2Fpolice%5C%2F%22%7D%2C%7B%22term_id%22%3A1299%2C%22name%22%3A%22Politics%22%2C%22slug%22%3A%22poli%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1299%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A584%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fpoli%5C%2F%22%7D%2C%7B%22term_id%22%3A2256%2C%22name%22%3A%22Pontoon%22%2C%22slug%22%3A%22pontoon%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A2256%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A854%2C%22count%22%3A24%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fhobbies%5C%2Fpontoon%5C%2F%22%7D%2C%7B%22term_id%22%3A702%2C%22name%22%3A%22Poster%22%2C%22slug%22%3A%22poster%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A702%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A176%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fposter%5C%2F%22%7D%2C%7B%22term_id%22%3A1238%2C%22name%22%3A%22Premier%20League%22%2C%22slug%22%3A%22premier-league%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1238%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1233%2C%22count%22%3A34%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fsport-3%5C%2Fpremier-league%5C%2F%22%7D%2C%7B%22term_id%22%3A767%2C%22name%22%3A%22Quilt%20and%20Blanket%22%2C%22slug%22%3A%22quilt-and-blanket%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A767%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A12%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fquilt-and-blanket%5C%2F%22%7D%2C%7B%22term_id%22%3A1294%2C%22name%22%3A%22RACING%22%2C%22slug%22%3A%22racing%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1294%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A854%2C%22count%22%3A3%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fhobbies%5C%2Fracing%5C%2F%22%7D%2C%7B%22term_id%22%3A1310%2C%22name%22%3A%22RBG%22%2C%22slug%22%3A%22rbg-lifestyle%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1310%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1077%2C%22count%22%3A24%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Flifestyle%5C%2Frbg-lifestyle%5C%2F%22%7D%2C%7B%22term_id%22%3A2451%2C%22name%22%3A%22Reading%22%2C%22slug%22%3A%22reading%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A2451%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A854%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fhobbies%5C%2Freading%5C%2F%22%7D%2C%7B%22term_id%22%3A2165%2C%22name%22%3A%22Ring%22%2C%22slug%22%3A%22ring%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A2165%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A1%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fring%5C%2F%22%7D%2C%7B%22term_id%22%3A39%2C%22name%22%3A%22Rush%20Band%22%2C%22slug%22%3A%22rush-band%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A39%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A31%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fwood-decor%5C%2Frush-band%5C%2F%22%7D%2C%7B%22term_id%22%3A41%2C%22name%22%3A%22San%20Francisco%2049ers%22%2C%22slug%22%3A%22san-francisco-49ers%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A41%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A31%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fwood-decor%5C%2Fsan-francisco-49ers%5C%2F%22%7D%2C%7B%22term_id%22%3A2285%2C%22name%22%3A%22Schitt%27s%20Creek%22%2C%22slug%22%3A%22schitts-creek%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A2285%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1045%2C%22count%22%3A15%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Ftv-series%5C%2Fschitts-creek%5C%2F%22%7D%2C%7B%22term_id%22%3A92%2C%22name%22%3A%22Seattle%20Seahawks%22%2C%22slug%22%3A%22seattle-seahawks%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A92%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A31%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fwood-decor%5C%2Fseattle-seahawks%5C%2F%22%7D%2C%7B%22term_id%22%3A1239%2C%22name%22%3A%22Serie%20A%22%2C%22slug%22%3A%22serie-a%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1239%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1233%2C%22count%22%3A8%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fsport-3%5C%2Fserie-a%5C%2F%22%7D%2C%7B%22term_id%22%3A1321%2C%22name%22%3A%22Singer%22%2C%22slug%22%3A%22singer%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1321%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A744%2C%22count%22%3A313%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fmusic%5C%2Fsinger%5C%2F%22%7D%2C%7B%22term_id%22%3A1293%2C%22name%22%3A%22Skiing%22%2C%22slug%22%3A%22skiing%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1293%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A854%2C%22count%22%3A2%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fhobbies%5C%2Fskiing%5C%2F%22%7D%2C%7B%22term_id%22%3A1233%2C%22name%22%3A%22Sport%22%2C%22slug%22%3A%22sport-3%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1233%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A453%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fsport-3%5C%2F%22%7D%2C%7B%22term_id%22%3A1428%2C%22name%22%3A%22Spotify%20Glass%22%2C%22slug%22%3A%22spotify-glass%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1428%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A1%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fspotify-glass%5C%2F%22%7D%2C%7B%22term_id%22%3A1408%2C%22name%22%3A%22St%20Patrick%27s%20Day%22%2C%22slug%22%3A%22st-patricks-day%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1408%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1289%2C%22count%22%3A73%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fholiday%5C%2Fst-patricks-day%5C%2F%22%7D%2C%7B%22term_id%22%3A1337%2C%22name%22%3A%22Star%20War%22%2C%22slug%22%3A%22star-war%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1337%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1045%2C%22count%22%3A22%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Ftv-series%5C%2Fstar-war%5C%2F%22%7D%2C%7B%22term_id%22%3A2538%2C%22name%22%3A%22State%22%2C%22slug%22%3A%22state%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A2538%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1077%2C%22count%22%3A50%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Flifestyle%5C%2Fstate%5C%2F%22%7D%2C%7B%22term_id%22%3A487%2C%22name%22%3A%22State%20in%20USA%22%2C%22slug%22%3A%22state-in-usa%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A487%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A31%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fwood-decor%5C%2Fstate-in-usa%5C%2F%22%7D%2C%7B%22term_id%22%3A1441%2C%22name%22%3A%22Sugar%20Skull%22%2C%22slug%22%3A%22sugar-skull%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1441%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A854%2C%22count%22%3A16%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fhobbies%5C%2Fsugar-skull%5C%2F%22%7D%2C%7B%22term_id%22%3A1227%2C%22name%22%3A%22Sunflower%22%2C%22slug%22%3A%22sunflower-life-styles%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1227%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1077%2C%22count%22%3A7%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Flifestyle%5C%2Fsunflower-life-styles%5C%2F%22%7D%2C%7B%22term_id%22%3A1447%2C%22name%22%3A%22Supernatural%22%2C%22slug%22%3A%22supernatural%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1447%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1045%2C%22count%22%3A28%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Ftv-series%5C%2Fsupernatural%5C%2F%22%7D%2C%7B%22term_id%22%3A88%2C%22name%22%3A%22Tampa%20Bay%20Buccaneers%22%2C%22slug%22%3A%22tampa-bay-buccaneers%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A88%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A31%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fwood-decor%5C%2Ftampa-bay-buccaneers%5C%2F%22%7D%2C%7B%22term_id%22%3A1400%2C%22name%22%3A%22Teacher%22%2C%22slug%22%3A%22teacher%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1400%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1115%2C%22count%22%3A73%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fjob%5C%2Fteacher%5C%2F%22%7D%2C%7B%22term_id%22%3A49%2C%22name%22%3A%22Tennessee%20Titans%22%2C%22slug%22%3A%22tennessee-titans%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A49%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A31%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fwood-decor%5C%2Ftennessee-titans%5C%2F%22%7D%2C%7B%22term_id%22%3A1724%2C%22name%22%3A%22The%20Beatles%22%2C%22slug%22%3A%22the-beatles%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1724%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1067%2C%22count%22%3A32%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fmusic%5C%2Fbest-rock-bands%5C%2Fthe-beatles%5C%2F%22%7D%2C%7B%22term_id%22%3A1439%2C%22name%22%3A%22The%20Golden%20Girls%22%2C%22slug%22%3A%22the-golden-girls%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1439%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1045%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Ftv-series%5C%2Fthe-golden-girls%5C%2F%22%7D%2C%7B%22term_id%22%3A2533%2C%22name%22%3A%22The%20Good%2C%20the%20Bad%20and%20the%20Ugly%22%2C%22slug%22%3A%22the-good-the-bad-and-the-ugly%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A2533%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1045%2C%22count%22%3A7%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Ftv-series%5C%2Fthe-good-the-bad-and-the-ugly%5C%2F%22%7D%2C%7B%22term_id%22%3A1425%2C%22name%22%3A%22The%20Grinch%22%2C%22slug%22%3A%22the-grinch%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1425%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1291%2C%22count%22%3A54%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fholiday%5C%2Fmerry-christmas%5C%2Fthe-grinch%5C%2F%22%7D%2C%7B%22term_id%22%3A1438%2C%22name%22%3A%22The%20Nightmare%20Before%20Christmas%22%2C%22slug%22%3A%22the-nightmare-before-christmas%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1438%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1045%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Ftv-series%5C%2Fthe-nightmare-before-christmas%5C%2F%22%7D%2C%7B%22term_id%22%3A2491%2C%22name%22%3A%22The%20Rolling%20Stones%22%2C%22slug%22%3A%22the-rolling-stones%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A2491%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1067%2C%22count%22%3A8%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fmusic%5C%2Fbest-rock-bands%5C%2Fthe-rolling-stones%5C%2F%22%7D%2C%7B%22term_id%22%3A2527%2C%22name%22%3A%22The%20Roots%22%2C%22slug%22%3A%22the-roots%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A2527%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A1%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fthe-roots%5C%2F%22%7D%2C%7B%22term_id%22%3A1144%2C%22name%22%3A%22Thin%20Line%22%2C%22slug%22%3A%22thin-line%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1144%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A12%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fthin-line%5C%2F%22%7D%2C%7B%22term_id%22%3A2215%2C%22name%22%3A%22Tombstone%22%2C%22slug%22%3A%22tombstone%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A2215%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%3Cimg%20class%3D%5C%22alignnone%20size-full%20wp-image-178027%5C%22%20src%3D%5C%22https%3A%5C%2F%5C%2Fbuzzcrafty.com%5C%2Fwp-content%5C%2Fuploads%5C%2F2021%5C%2F01%5C%2Ftombstone-28th.png%5C%22%20alt%3D%5C%22%5C%22%20width%3D%5C%22700%5C%22%20height%3D%5C%22250%5C%22%20%5C%2F%3E%22%2C%22parent%22%3A1045%2C%22count%22%3A52%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Ftv-series%5C%2Ftombstone%5C%2F%22%7D%2C%7B%22term_id%22%3A2464%2C%22name%22%3A%22Top%20Gun%22%2C%22slug%22%3A%22top-gun%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A2464%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1045%2C%22count%22%3A17%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Ftv-series%5C%2Ftop-gun%5C%2F%22%7D%2C%7B%22term_id%22%3A1311%2C%22name%22%3A%22Truck%20Driver%22%2C%22slug%22%3A%22truck-driver%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1311%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1115%2C%22count%22%3A3%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fjob%5C%2Ftruck-driver%5C%2F%22%7D%2C%7B%22term_id%22%3A1045%2C%22name%22%3A%22TV%20Series%22%2C%22slug%22%3A%22tv-series%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1045%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A1068%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Ftv-series%5C%2F%22%7D%2C%7B%22term_id%22%3A2279%2C%22name%22%3A%22Valentine%27s%20Day%22%2C%22slug%22%3A%22valentines-day%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A2279%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1289%2C%22count%22%3A9%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fholiday%5C%2Fvalentines-day%5C%2F%22%7D%2C%7B%22term_id%22%3A1411%2C%22name%22%3A%22Volleyball%22%2C%22slug%22%3A%22volleyball%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1411%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1233%2C%22count%22%3A40%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fsport-3%5C%2Fvolleyball%5C%2F%22%7D%2C%7B%22term_id%22%3A1421%2C%22name%22%3A%22WALT%20DISNEY%22%2C%22slug%22%3A%22walt-disney%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1421%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1045%2C%22count%22%3A37%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Ftv-series%5C%2Fwalt-disney%5C%2F%22%7D%2C%7B%22term_id%22%3A79%2C%22name%22%3A%22Washington%20Redskins%22%2C%22slug%22%3A%22washington-redskins%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A79%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A31%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fwood-decor%5C%2Fwashington-redskins%5C%2F%22%7D%2C%7B%22term_id%22%3A1395%2C%22name%22%3A%22Weed%22%2C%22slug%22%3A%22weed%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1395%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A854%2C%22count%22%3A64%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fhobbies%5C%2Fweed%5C%2F%22%7D%2C%7B%22term_id%22%3A1496%2C%22name%22%3A%22Whiskey%22%2C%22slug%22%3A%22whiskey%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1496%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1297%2C%22count%22%3A30%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fdrink%5C%2Fwhiskey%5C%2F%22%7D%2C%7B%22term_id%22%3A1389%2C%22name%22%3A%22Wine%22%2C%22slug%22%3A%22wine%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1389%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1297%2C%22count%22%3A63%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fdrink%5C%2Fwine%5C%2F%22%7D%2C%7B%22term_id%22%3A31%2C%22name%22%3A%22Wood%20Decor%22%2C%22slug%22%3A%22wood-decor%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A31%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A1%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fwood-decor%5C%2F%22%7D%2C%7B%22term_id%22%3A1488%2C%22name%22%3A%22Wood%20Photo%22%2C%22slug%22%3A%22wood-photo%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1488%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A1%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fwood-photo%5C%2F%22%7D%2C%7B%22term_id%22%3A1799%2C%22name%22%3A%22Yellowstone%22%2C%22slug%22%3A%22yellowstone%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1799%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A1045%2C%22count%22%3A19%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Ftv-series%5C%2Fyellowstone%5C%2F%22%7D%2C%7B%22term_id%22%3A1296%2C%22name%22%3A%22Yoga%22%2C%22slug%22%3A%22yoga%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A1296%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A854%2C%22count%22%3A0%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2Fproduct-category%5C%2Fhobbies%5C%2Fyoga%5C%2F%22%7D%5D%2C%22homeUrl%22%3A%22https%3A%5C%2F%5C%2Fbeekindy.com%5C%2F%22%7D' ) );
+		</script>
+		<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/beekindy.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://beekindy.com/wp-content/plugins/contact-form-7/includes/js/scripts.js'></script>
+<script type='text/javascript' src='https://beekindy.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/beekindy.com\/cart\/","is_cart":"","cart_redirect_after_add":"yes"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://beekindy.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js'></script>
+<script type='text/javascript' src='https://beekindy.com/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pwsL10n = {"unknown":"Password strength unknown","short":"Very weak","bad":"Weak","good":"Medium","strong":"Strong","mismatch":"Mismatch"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://beekindy.com/wp-admin/js/password-strength-meter.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_password_strength_meter_params = {"min_password_strength":"3","stop_checkout":"","i18n_password_error":"Please enter a stronger password.","i18n_password_hint":"Hint: The password should be at least twelve characters long. To make it stronger, use upper and lower case letters, numbers, and symbols like ! \" ? $ % ^ & )."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://beekindy.com/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://beekindy.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js'></script>
+<script type='text/javascript' src='https://beekindy.com/wp-content/plugins/woocommerce/assets/js/frontend/lost-password.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_5d53e83ead6e8ce89d8a00992c487960","fragment_name":"wc_fragments_5d53e83ead6e8ce89d8a00992c487960","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://beekindy.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js'></script>
+<script type='text/javascript' src='https://beekindy.com/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ccfwooLocal = {"ccfwoo_minutes":"45","top_banner_font_color":"#f2f2f2","top_banner_background_color":"#110f0f","countdown_text":"We can only hold your item for {minutes} minutes and {seconds} seconds!","expired_text":"We can only hold on to items for so long. Please try again","banner_message_text":"TODAY! Free Shipping Over $99","enable_banner_message":"on","leading_zero":"off","cart_count":"0","countdown_locations":{"bar":"bar"},"loading_html":"<div class=\"ccfwoo-loading-dots\">\n    <div class=\"ccfwoo-loading-dots--dot\"><\/div>\n    <div class=\"ccfwoo-loading-dots--dot\"><\/div>\n    <div class=\"ccfwoo-loading-dots--dot\"><\/div>\n<\/div>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://beekindy.com/wp-content/plugins/checkout-countdown-for-woocommerce/functions/../assets/checkout-countdown.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var child_array = {"URLhome":"https:\/\/beekindy.com"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://beekindy.com/wp-content/themes/devvn-shopee/js/devvn-jquery.js'></script>
+<script type='text/javascript' src='https://beekindy.com/wp-includes/js/hoverIntent.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var flatsomeVars = {"ajaxurl":"https:\/\/beekindy.com\/wp-admin\/admin-ajax.php","rtl":"","sticky_height":"70","lightbox":{"close_markup":"<button title=\"%title%\" type=\"button\" class=\"mfp-close\"><svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"feather feather-x\"><line x1=\"18\" y1=\"6\" x2=\"6\" y2=\"18\"><\/line><line x1=\"6\" y1=\"6\" x2=\"18\" y2=\"18\"><\/line><\/svg><\/button>","close_btn_inside":false},"user":{"can_edit_pages":false},"i18n":{"mainMenu":"Main Menu"},"options":{"cookie_notice_version":"1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://beekindy.com/wp-content/themes/flatsome/assets/js/flatsome.js'></script>
+<script type='text/javascript' src='https://beekindy.com/wp-content/themes/flatsome/assets/js/woocommerce.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wapf_config = {"ajax":"https:\/\/beekindy.com\/wp-admin\/admin-ajax.php","page_type":"other","display_options":{"format":"%1$s%2$s","symbol":"&#36;","decimals":2,"decimal":".","thousand":","},"slider_support":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://beekindy.com/wp-content/plugins/advanced-product-fields-for-woocommerce-pro/assets/js/frontend.min.js'></script>
+<script type='text/javascript' src='https://beekindy.com/wp-includes/js/wp-embed.min.js'></script>
+<!-- WooCommerce JavaScript -->
+<script type="text/javascript">
+jQuery(function($) { 
+
+	jQuery( function( $ ) {
+		var ppec_mark_fields      = '#woocommerce_ppec_paypal_title, #woocommerce_ppec_paypal_description';
+		var ppec_live_fields      = '#woocommerce_ppec_paypal_api_username, #woocommerce_ppec_paypal_api_password, #woocommerce_ppec_paypal_api_signature, #woocommerce_ppec_paypal_api_certificate, #woocommerce_ppec_paypal_api_subject';
+		var ppec_sandbox_fields   = '#woocommerce_ppec_paypal_sandbox_api_username, #woocommerce_ppec_paypal_sandbox_api_password, #woocommerce_ppec_paypal_sandbox_api_signature, #woocommerce_ppec_paypal_sandbox_api_certificate, #woocommerce_ppec_paypal_sandbox_api_subject';
+
+		var enable_toggle         = $( 'a.ppec-toggle-settings' ).length > 0;
+		var enable_sandbox_toggle = $( 'a.ppec-toggle-sandbox-settings' ).length > 0;
+
+		$( '#woocommerce_ppec_paypal_environment' ).change(function(){
+			$( ppec_sandbox_fields + ',' + ppec_live_fields ).closest( 'tr' ).hide();
+
+			if ( 'live' === $( this ).val() ) {
+				$( '#woocommerce_ppec_paypal_api_credentials, #woocommerce_ppec_paypal_api_credentials + p' ).show();
+				$( '#woocommerce_ppec_paypal_sandbox_api_credentials, #woocommerce_ppec_paypal_sandbox_api_credentials + p' ).hide();
+
+				if ( ! enable_toggle ) {
+					$( ppec_live_fields ).closest( 'tr' ).show();
+				}
+			} else {
+				$( '#woocommerce_ppec_paypal_api_credentials, #woocommerce_ppec_paypal_api_credentials + p' ).hide();
+				$( '#woocommerce_ppec_paypal_sandbox_api_credentials, #woocommerce_ppec_paypal_sandbox_api_credentials + p' ).show();
+
+				if ( ! enable_sandbox_toggle ) {
+					$( ppec_sandbox_fields ).closest( 'tr' ).show();
+				}
+			}
+		}).change();
+
+		$( '#woocommerce_ppec_paypal_enabled' ).change(function(){
+			if ( $( this ).is( ':checked' ) ) {
+				$( ppec_mark_fields ).closest( 'tr' ).show();
+			} else {
+				$( ppec_mark_fields ).closest( 'tr' ).hide();
+			}
+		}).change();
+
+		$( '#woocommerce_ppec_paypal_paymentaction' ).change(function(){
+			if ( 'sale' === $( this ).val() ) {
+				$( '#woocommerce_ppec_paypal_instant_payments' ).closest( 'tr' ).show();
+			} else {
+				$( '#woocommerce_ppec_paypal_instant_payments' ).closest( 'tr' ).hide();
+			}
+		}).change();
+
+		if ( enable_toggle ) {
+			$( document ).off( 'click', '.ppec-toggle-settings' );
+			$( document ).on( 'click', '.ppec-toggle-settings', function( e ) {
+				$( ppec_live_fields ).closest( 'tr' ).toggle( 'fast' );
+				e.preventDefault();
+			} );
+		}
+		if ( enable_sandbox_toggle ) {
+			$( document ).off( 'click', '.ppec-toggle-sandbox-settings' );
+			$( document ).on( 'click', '.ppec-toggle-sandbox-settings', function( e ) {
+				$( ppec_sandbox_fields ).closest( 'tr' ).toggle( 'fast' );
+				e.preventDefault();
+			} );
+		}
+
+		$( '.woocommerce_ppec_paypal_button_layout' ).change( function( event ) {
+			if ( ! $( '#woocommerce_ppec_paypal_use_spb' ).is( ':checked' ) ) {
+				return;
+			}
+
+			// Show settings that pertain to selected layout in same section
+			var isVertical = 'vertical' === $( event.target ).val();
+			var table      = $( event.target ).closest( 'table' );
+			table.find( '.woocommerce_ppec_paypal_vertical' ).closest( 'tr' ).toggle( isVertical );
+			table.find( '.woocommerce_ppec_paypal_horizontal' ).closest( 'tr' ).toggle( ! isVertical );
+
+			// Disable 'small' button size option in vertical layout only
+			var button_size        = table.find( '.woocommerce_ppec_paypal_button_size' );
+			var button_size_option = button_size.find( 'option[value="small"]' );
+			if ( button_size_option.prop( 'disabled' ) !== isVertical ) {
+				button_size.removeClass( 'enhanced' );
+				button_size_option.prop( 'disabled', isVertical );
+				$( document.body ).trigger( 'wc-enhanced-select-init' );
+				! button_size.val() && button_size.val( 'responsive' ).change();
+			}
+		} ).change();
+
+		// Hide default layout and size settings if they'll be overridden anyway.
+		function showHideDefaultButtonSettings() {
+			var display =
+				$( '#woocommerce_ppec_paypal_cart_checkout_enabled' ).is( ':checked' ) ||
+				( $( '#woocommerce_ppec_paypal_checkout_on_single_product_enabled' ).is( ':checked' ) && ! $( '#woocommerce_ppec_paypal_single_product_settings_toggle' ).is( ':checked' ) ) ||
+				( $( '#woocommerce_ppec_paypal_mark_enabled' ).is( ':checked' ) && ! $( '#woocommerce_ppec_paypal_mark_settings_toggle' ).is( ':checked' ) );
+
+			$( '#woocommerce_ppec_paypal_button_layout, #woocommerce_ppec_paypal_button_size, #woocommerce_ppec_paypal_hide_funding_methods, #woocommerce_ppec_paypal_credit_enabled' ).closest( 'tr' ).toggle( display );
+			display && $( '#woocommerce_ppec_paypal_button_layout' ).change();
+		}
+
+		// Toggle mini-cart section based on whether checkout on cart page is enabled
+		$( '#woocommerce_ppec_paypal_cart_checkout_enabled' ).change( function( event ) {
+			if ( ! $( '#woocommerce_ppec_paypal_use_spb' ).is( ':checked' ) ) {
+				return;
+			}
+
+			var checked = $( event.target ).is( ':checked' );
+			$( '#woocommerce_ppec_paypal_mini_cart_settings_toggle, .woocommerce_ppec_paypal_mini_cart' )
+				.closest( 'tr' )
+				.add( '#woocommerce_ppec_paypal_mini_cart_settings' ) // Select title.
+					.next( 'p' ) // Select description if present.
+				.addBack()
+				.toggle( checked );
+			checked && $( '#woocommerce_ppec_paypal_mini_cart_settings_toggle' ).change();
+			showHideDefaultButtonSettings();
+		} ).change();
+
+		$( '#woocommerce_ppec_paypal_mini_cart_settings_toggle' ).change( function( event ) {
+			// Only show settings specific to mini-cart if configured to override global settings.
+			var checked = $( event.target ).is( ':checked' );
+			$( '.woocommerce_ppec_paypal_mini_cart' ).closest( 'tr' ).toggle( checked );
+			checked && $( '#woocommerce_ppec_paypal_mini_cart_button_layout' ).change();
+			showHideDefaultButtonSettings();
+		} ).change();
+
+		$( '#woocommerce_ppec_paypal_checkout_on_single_product_enabled, #woocommerce_ppec_paypal_single_product_settings_toggle' ).change( function( event ) {
+			if ( ! $( '#woocommerce_ppec_paypal_use_spb' ).is( ':checked' ) ) {
+				return;
+			}
+
+			if ( ! $( '#woocommerce_ppec_paypal_checkout_on_single_product_enabled' ).is( ':checked' ) ) {
+				// If product page button is disabled, hide remaining settings in section.
+				$( '#woocommerce_ppec_paypal_single_product_settings_toggle, .woocommerce_ppec_paypal_single_product' ).closest( 'tr' ).hide();
+			} else if ( ! $( '#woocommerce_ppec_paypal_single_product_settings_toggle' ).is( ':checked' ) ) {
+				// If product page button is enabled but not configured to override global settings, hide remaining settings in section.
+				$( '#woocommerce_ppec_paypal_single_product_settings_toggle' ).closest( 'tr' ).show();
+				$( '.woocommerce_ppec_paypal_single_product' ).closest( 'tr' ).hide();
+			} else {
+				// Show all settings in section.
+				$( '#woocommerce_ppec_paypal_single_product_settings_toggle, .woocommerce_ppec_paypal_single_product' ).closest( 'tr' ).show();
+				$( '#woocommerce_ppec_paypal_single_product_button_layout' ).change();
+			}
+			showHideDefaultButtonSettings();
+		} ).change();
+
+		$( '#woocommerce_ppec_paypal_mark_enabled, #woocommerce_ppec_paypal_mark_settings_toggle' ).change( function() {
+			if ( ! $( '#woocommerce_ppec_paypal_use_spb' ).is( ':checked' ) ) {
+				return;
+			}
+
+			if ( ! $( '#woocommerce_ppec_paypal_mark_enabled' ).is( ':checked' ) ) {
+				// If checkout page button is disabled, hide remaining settings in section.
+				$( '#woocommerce_ppec_paypal_mark_settings_toggle, .woocommerce_ppec_paypal_mark' ).closest( 'tr' ).hide();
+			} else if ( ! $( '#woocommerce_ppec_paypal_mark_settings_toggle' ).is( ':checked' ) ) {
+				// If checkout page button is enabled but not configured to override global settings, hide remaining settings in section.
+				$( '#woocommerce_ppec_paypal_mark_settings_toggle' ).closest( 'tr' ).show();
+				$( '.woocommerce_ppec_paypal_mark' ).closest( 'tr' ).hide();
+			} else {
+				// Show all settings in section.
+				$( '#woocommerce_ppec_paypal_mark_settings_toggle, .woocommerce_ppec_paypal_mark' ).closest( 'tr' ).show();
+				$( '#woocommerce_ppec_paypal_mark_button_layout' ).change();
+			}
+			showHideDefaultButtonSettings();
+		} ).change();
+
+		// Make sure handlers are only attached once if script is loaded multiple times.
+		$( '#woocommerce_ppec_paypal_use_spb' ).off( 'change' );
+
+		$( '#woocommerce_ppec_paypal_use_spb' ).change( function( event ) {
+			var checked = $( event.target ).is( ':checked' );
+
+			// Show settings specific to Smart Payment Buttons only if enabled.
+			$( '.woocommerce_ppec_paypal_spb' ).not( 'h3 ').closest( 'tr' ).toggle( checked );
+			$( '.woocommerce_ppec_paypal_spb' ).filter( 'h3' ).next( 'p' ).addBack().toggle( checked );
+
+			if ( checked ) {
+				// Trigger all logic that controls visibility of other settings.
+				$( '.woocommerce_ppec_paypal_visibility_toggle' ).change();
+			} else {
+				// If non-SPB mode is enabled, show all settings that may have been hidden.
+				$( '#woocommerce_ppec_paypal_button_size, #woocommerce_ppec_paypal_credit_enabled' ).closest( 'tr' ).show();
+			}
+
+			// Hide 'Responsive' button size option in SPB mode, and make sure to show 'Small' option.
+			var button_size = $( '#woocommerce_ppec_paypal_button_size' ).removeClass( 'enhanced' );
+			button_size.find( 'option[value="responsive"]' ).prop( 'disabled', ! checked );
+			! checked && button_size.find( 'option[value="small"]' ).prop( 'disabled', false );
+			$( document.body ).trigger( 'wc-enhanced-select-init' );
+		} ).change();
+
+		// Reset button size values to default when switching modes.
+		$( '#woocommerce_ppec_paypal_use_spb' ).change( function( event ) {
+			if ( $( event.target ).is( ':checked' ) ) {
+				// In SPB mode, set to recommended 'Responsive' value so it is not missed.
+				$( '#woocommerce_ppec_paypal_button_size' ).val( 'responsive' ).change();
+			} else if ( ! $( '#woocommerce_ppec_paypal_button_size' ).val() ) {
+				// Set back to original default for non-SPB mode.
+				$( '#woocommerce_ppec_paypal_button_size' ).val( 'large' ).change();
+			}
+		} );
+
+	});
+
+ });
+</script>
+
+</body>
+</html>
